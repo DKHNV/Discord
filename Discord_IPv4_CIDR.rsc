@@ -1,6 +1,6 @@
 #Created by DKHNV
 #Gen1 01.05.2025
-/ip firewall address-list		
+/ip firewall address-list
 
 add list=Discord address=	23.227.38.74	comment=Discord
 add list=Discord address=	34.126.226.51	comment=Discord
