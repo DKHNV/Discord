@@ -1,5 +1,5 @@
 #Created by DKHNV
-#Gen3 01.05.2025
+#Gen4 01.05.2025
 /ip firewall address-list
 
 add list=Discord address=	23.227.38.74	comment=Discord
