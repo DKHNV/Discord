@@ -1,5 +1,5 @@
 #Created by DKHNV
-#Gen13 22.12.2025
+#Gen14 31.03.2026
 
 /ip firewall address-list
 add list=Discord address=	13.248.169.48/32	comment=Discord
