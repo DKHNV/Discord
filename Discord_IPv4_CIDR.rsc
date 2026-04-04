@@ -1,5 +1,5 @@
 #Created by DKHNV
-#Gen14 31.03.2026
+#Gen15 04.04.2026
 
 /ip firewall address-list
 add list=Discord address=	13.248.169.48/32	comment=Discord
@@ -15,11 +15,10 @@ add list=Discord address=	104.18.34.249/32	comment=Discord
 add list=Discord address=	104.18.37.76/32	comment=Discord
 add list=Discord address=	104.18.38.75/32	comment=Discord
 add list=Discord address=	104.21.25.51/32	comment=Discord
-add list=Discord address=	104.21.72.221/32	comment=Discord
-add list=Discord address=	104.21.80.173/32	comment=Discord
-add list=Discord address=	104.21.82.160/32	comment=Discord
-add list=Discord address=	104.21.89.187/32	comment=Discord
-add list=Discord address=	142.251.38.91/32	comment=Discord
+add list=Discord address=	142.250.180.27/32	comment=Discord
+add list=Discord address=	142.251.39.155/32	comment=Discord
+add list=Discord address=	142.251.142.219/32	comment=Discord
+add list=Discord address=	142.251.209.251/32	comment=Discord
 add list=Discord address=	162.159.128.233/32	comment=Discord
 add list=Discord address=	162.159.128.234/32	comment=Discord
 add list=Discord address=	162.159.128.235/32	comment=Discord
@@ -49,14 +48,14 @@ add list=Discord address=	172.64.149.181/32	comment=Discord
 add list=Discord address=	172.64.150.180/32	comment=Discord
 add list=Discord address=	172.64.153.7/32	comment=Discord
 add list=Discord address=	172.64.155.82/32	comment=Discord
-add list=Discord address=	172.67.152.113/32	comment=Discord
-add list=Discord address=	172.67.155.163/32	comment=Discord
-add list=Discord address=	172.67.159.89/32	comment=Discord
-add list=Discord address=	172.67.191.5/32	comment=Discord
 add list=Discord address=	172.67.222.182/32	comment=Discord
+add list=Discord address=	172.217.17.219/32	comment=Discord
+add list=Discord address=	172.217.23.251/32	comment=Discord
+add list=Discord address=	172.217.171.123/32	comment=Discord
 add list=Discord address=	185.104.29.88/32	comment=Discord
-add list=Discord address=	192.178.25.91/32	comment=Discord
-add list=Discord address=	216.58.198.187/32	comment=Discord
-add list=Discord address=	216.58.201.27/32	comment=Discord
-add list=Discord address=	216.58.209.187/32	comment=Discord
-add list=Discord address=	216.58.209.219/32	comment=Discord
+add list=Discord address=	188.114.96.0/32	comment=Discord
+add list=Discord address=	188.114.97.0/32	comment=Discord
+add list=Discord address=	192.178.25.219/32	comment=Discord
+add list=Discord address=	216.58.198.27/32	comment=Discord
+add list=Discord address=	216.58.198.59/32	comment=Discord
+add list=Discord address=	216.58.198.123/32	comment=Discord
