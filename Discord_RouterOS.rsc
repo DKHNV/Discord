@@ -1,5 +1,5 @@
 #Created by DKHNV
-#Gen4 12.04.2026
+#Gen5 19.04.2026
 
 /ip firewall address-list
 
@@ -49,6 +49,5 @@ add list=discord address=172.217.171.123/32 comment=discord
 add list=discord address=185.104.29.88/32 comment=discord
 add list=discord address=188.114.96.0/32 comment=discord
 add list=discord address=188.114.97.0/32 comment=discord
-add list=discord address=192.178.25.219/32 comment=discord
 add list=discord address=216.58.198.27/32 comment=discord
-add list=discord address=216.58.198.123/32 comment=discord
+add list=discord address=216.58.198.59/32 comment=discord
