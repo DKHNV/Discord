@@ -1,0 +1,6678 @@
+{
+  "hosts": {
+    "androiddiag.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "androiddiag.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "cdn.discordapp.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 403,
+          "ip": "162.159.129.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 403,
+          "ip": "162.159.129.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "cdn.discordapp.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.129.233",
+        "162.159.130.233",
+        "162.159.133.233"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "creator-support.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 302,
+          "ip": "216.198.53.11",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 302,
+          "ip": "216.198.53.11",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "creator-support.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "216.198.53.11",
+        "216.198.54.11"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "discord.gg": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 301,
+          "ip": "162.159.130.234",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 301,
+          "ip": "162.159.130.234",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.130.234",
+        "162.159.133.234",
+        "162.159.134.234"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "discordapp.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 301,
+          "ip": "162.159.129.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 301,
+          "ip": "162.159.129.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "discordapp.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.129.233",
+        "162.159.130.233",
+        "162.159.133.233"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "dl.discordapp.net": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 301,
+          "ip": "104.18.48.115",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 301,
+          "ip": "104.18.48.115",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "dl.discordapp.net",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "104.18.48.115",
+        "104.18.52.172"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "dl2.discordapp.net": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 404,
+          "ip": "34.126.226.51",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 404,
+          "ip": "34.126.226.51",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "dl2.discordapp.net",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "34.126.226.51"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "docs.discordapp.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "100.24.90.130",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "100.24.90.130",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "docs.discordapp.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "100.24.90.130"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "enam-rtc-sfu-finder.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": null,
+          "ip": "136.68.154.7",
+          "port": 443,
+          "status": "TLS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "ip": "136.68.154.7",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "TLS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "enam-rtc-sfu-finder.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "136.68.154.7"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "events.discord.com": {
+      "attempts": [
+        {
+          "cipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "http_status": 403,
+          "ip": "151.101.130.133",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.2"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 403,
+          "ip": "151.101.130.133",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.2",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "events.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "151.101.130.133",
+        "151.101.194.133",
+        "151.101.2.133"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "finland14009.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.42.214",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14009.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.42.214",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.42.214"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14073.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.36.87",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14073.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.36.87",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.36.87"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14118.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.34.164",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14118.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.34.164",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.34.164"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14119.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.29.127",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14119.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.29.127",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.29.127"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14120.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.53.82",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14120.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.53.82",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.53.82"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14121.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.60.176",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14121.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.60.176",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.60.176"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14122.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.62.197",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14122.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.62.197",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.62.197"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14123.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.45.215",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14123.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.45.215",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.45.215"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14124.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.60.29",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14124.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.60.29",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.60.29"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14125.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.56.82",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14125.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.56.82",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.56.82"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14126.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.39.135",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14126.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.39.135",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.39.135"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14127.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.49.22",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14127.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.49.22",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.49.22"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14128.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.8.172",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14128.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.8.172",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.8.172"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14129.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.28.208",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14129.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.28.208",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.28.208"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14130.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.23.62",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14130.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.23.62",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.23.62"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14131.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.13.109",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14131.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.13.109",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.13.109"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14132.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.14.72",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14132.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.14.72",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.14.72"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14133.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.11.71",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14133.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.11.71",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.11.71"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14134.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.59.117",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14134.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.59.117",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.59.117"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14135.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.26.31",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14135.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.26.31",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.26.31"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14136.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.33.70",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14136.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.33.70",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.33.70"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14137.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.9.201",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14137.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.9.201",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.9.201"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14138.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.63.135",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14138.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.63.135",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.63.135"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14139.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.10.28",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14139.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.10.28",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.10.28"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14140.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.31.203",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14140.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.31.203",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.31.203"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14141.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.43.201",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14141.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.43.201",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.43.201"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14142.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.42.66",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14142.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.42.66",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.42.66"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14143.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.37.201",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14143.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.37.201",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.37.201"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14144.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.58.12",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14144.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.58.12",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.58.12"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14145.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.7.37",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14145.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.7.37",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.7.37"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14146.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.34.211",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14146.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.34.211",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.34.211"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "finland14147.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.217.52.126",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "finland14147.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.217.52.126",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.217.52.126"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "gateway.discord.gg": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 404,
+          "ip": "162.159.130.234",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 404,
+          "ip": "162.159.130.234",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "gateway.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.130.234",
+        "162.159.133.234",
+        "162.159.134.234"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "india11014.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.207.197.228",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "india11014.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.207.197.228",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.207.197.228"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "india11016.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.207.194.63",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "india11016.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.207.194.63",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.207.194.63"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "india11024.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.207.243.61",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "india11024.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.207.243.61",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.207.243.61"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "india11041.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.207.248.51",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "india11041.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.207.248.51",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.207.248.51"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "india11042.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.207.252.67",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "india11042.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.207.252.67",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.207.252.67"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "japan13024.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.213.73.18",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "japan13024.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.213.73.18",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.213.73.18"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "japan13027.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.213.44.74",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "japan13027.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.213.44.74",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.213.44.74"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "media-b2.discordapp.net": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 503,
+          "ip": "162.159.128.232",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 503,
+          "ip": "162.159.128.232",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "media-b2.discordapp.net",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.232",
+        "162.159.129.232",
+        "162.159.130.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "media.discordapp.net": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 401,
+          "ip": "162.159.128.232",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 401,
+          "ip": "162.159.128.232",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "media.discordapp.net",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.232",
+        "162.159.129.232",
+        "162.159.130.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "otelcol.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 401,
+          "ip": "34.54.137.142",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 401,
+          "ip": "34.54.137.142",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "otelcol.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "34.54.137.142"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "prod-wf1.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "prod-wf1.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "prod-wf2.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "prod-wf2.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "prod-wf3.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 301,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 301,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "prod-wf3.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "rtc-sfu-finder.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": null,
+          "ip": "35.190.41.53",
+          "port": 443,
+          "status": "TLS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "ip": "35.190.41.53",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "TLS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "rtc-sfu-finder.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "35.190.41.53"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "santiago11006.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.0.50.221",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "santiago11006.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.0.50.221",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.0.50.221"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "santiago11009.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.0.54.153",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "santiago11009.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.0.54.153",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.0.54.153"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "santiago11026.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.0.59.83",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "santiago11026.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.0.59.83",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.0.59.83"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "snowsgiving-tale-2022-da.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "snowsgiving-tale-2022-da.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "snowsgiving-tale-2022-de.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "snowsgiving-tale-2022-de.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "snowsgiving-tale-2022-en.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "snowsgiving-tale-2022-en.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "snowsgiving-tale-2022-es-es.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "snowsgiving-tale-2022-es-es.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "snowsgiving-tale-2022-fr.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "snowsgiving-tale-2022-fr.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "snowsgiving-tale-2022-it.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "snowsgiving-tale-2022-it.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "snowsgiving-tale-2022-ja.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "snowsgiving-tale-2022-ja.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "snowsgiving-tale-2022-ko.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "snowsgiving-tale-2022-ko.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "snowsgiving-tale-2022-nl.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "snowsgiving-tale-2022-nl.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "snowsgiving-tale-2022-pl.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "snowsgiving-tale-2022-pl.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "snowsgiving-tale-2022-pt-br.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "snowsgiving-tale-2022-pt-br.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "snowsgiving-tale-2022-ru.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "snowsgiving-tale-2022-ru.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "snowsgiving-tale-2022-sv-se.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "snowsgiving-tale-2022-sv-se.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "snowsgiving-tale-2022-tr.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "snowsgiving-tale-2022-tr.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "snowsgiving-tale-2022-zh-cn.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "snowsgiving-tale-2022-zh-cn.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "snowsgiving-tale-2022-zh-tw.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 200,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "snowsgiving-tale-2022-zh-tw.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "snowsgiving-tale-2022.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 302,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 302,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "snowsgiving-tale-2022.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "south-korea-streams14019.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.213.116.20",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea-streams14019.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.213.116.20",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.213.116.20"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea-streams14045.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.213.88.251",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea-streams14045.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.213.88.251",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.213.88.251"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea-streams14073.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.213.58.104",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea-streams14073.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.213.58.104",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.213.58.104"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea-streams14087.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.213.99.135",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea-streams14087.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.213.99.135",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.213.99.135"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea-streams14113.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.213.37.114",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea-streams14113.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.213.37.114",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.213.37.114"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea-streams14119.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.213.91.110",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea-streams14119.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.213.91.110",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.213.91.110"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12002.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.29.202",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12002.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.29.202",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.29.202"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12003.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.81.126",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12003.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.81.126",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.81.126"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12012.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.45.86",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12012.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.45.86",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.45.86"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12015.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.13.2",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12015.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.13.2",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.13.2"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12016.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.62.146",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12016.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.62.146",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.62.146"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12020.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.45.28",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12020.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.45.28",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.45.28"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12027.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.7.48",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12027.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.7.48",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.7.48"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12029.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.110.157",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12029.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.110.157",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.110.157"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12036.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.9.66",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12036.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.9.66",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.9.66"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12037.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.7.26",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12037.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.7.26",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.7.26"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12039.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.33.232",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12039.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.33.232",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.33.232"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12040.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.18.173",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12040.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.18.173",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.18.173"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12043.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.85.138",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12043.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.85.138",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.85.138"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12044.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.83.37",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12044.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.83.37",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.83.37"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12045.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.34.209",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12045.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.34.209",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.34.209"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12047.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.28.252",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12047.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.28.252",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.28.252"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12048.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.57.62",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12048.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.57.62",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.57.62"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12049.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.44.144",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12049.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.44.144",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.44.144"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea12052.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.36.41",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea12052.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.36.41",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.36.41"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea13010.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.113.198",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea13010.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.113.198",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.113.198"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea13024.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.68.130",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea13024.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.68.130",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.68.130"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea13030.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.62.31",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea13030.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.62.31",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.62.31"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea13034.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.10.207",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea13034.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.10.207",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.10.207"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea13041.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.26.168",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea13041.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.26.168",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.26.168"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea13052.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.63.112",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea13052.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.63.112",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.63.112"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea13054.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.6.47",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea13054.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.6.47",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.6.47"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "south-korea13070.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.216.124.194",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "south-korea13070.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.216.124.194",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.216.124.194"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "stage-scale10020.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.215.78.86",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "stage-scale10020.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.215.78.86",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.215.78.86"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "stage-scale10021.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.4.28.170",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "stage-scale10021.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.4.28.170",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.4.28.170"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "stage-scale10022.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.215.108.111",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "stage-scale10022.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.215.108.111",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.215.108.111"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "stage-scale10023.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.215.85.252",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "stage-scale10023.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.215.85.252",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.215.85.252"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "stage-scale10024.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.215.83.0",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "stage-scale10024.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.215.83.0",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.215.83.0"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "stage-scale10025.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.215.66.109",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "stage-scale10025.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.215.66.109",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.215.66.109"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "stage-scale10026.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.215.126.35",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "stage-scale10026.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.215.126.35",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.215.126.35"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "stage-scale10027.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.215.113.144",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "stage-scale10027.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.215.113.144",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.215.113.144"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "stage-scale10028.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.215.115.120",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "stage-scale10028.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.215.115.120",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.215.115.120"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "stage-scale10029.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.4.29.239",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "stage-scale10029.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.4.29.239",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.4.29.239"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "static-edge.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 404,
+          "ip": "34.126.224.98",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 404,
+          "ip": "34.126.224.98",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "static-edge.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "34.126.224.98"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "static.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 404,
+          "ip": "34.54.86.23",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 404,
+          "ip": "34.54.86.23",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "static.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "34.54.86.23"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "static.discordapp.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 404,
+          "ip": "34.54.86.23",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 404,
+          "ip": "34.54.86.23",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "static.discordapp.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "34.54.86.23"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "support-apps.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 302,
+          "ip": "216.198.53.11",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 302,
+          "ip": "216.198.53.11",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "support-apps.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "216.198.53.11",
+        "216.198.54.11"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "support-dev.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 302,
+          "ip": "216.198.53.11",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 302,
+          "ip": "216.198.53.11",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "support-dev.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "216.198.53.11",
+        "216.198.54.11"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "support.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 302,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 302,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "support.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "tel-aviv12000.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.0.95.146",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "tel-aviv12000.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.0.95.146",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.0.95.146"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "tel-aviv12004.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.0.88.7",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "tel-aviv12004.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.0.88.7",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.0.88.7"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "us-south12005.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.0.139.125",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "us-south12005.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.0.139.125",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.0.139.125"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "us-south12013.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.0.148.187",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "us-south12013.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.0.148.187",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.0.148.187"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "us-west20002.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.215.79.31",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "us-west20002.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.215.79.31",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.215.79.31"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "us-west20003.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.215.118.138",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "us-west20003.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.215.118.138",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.215.118.138"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "us-west20004.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.215.97.70",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "us-west20004.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.215.97.70",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.215.97.70"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "us-west20007.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.215.126.171",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "us-west20007.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.215.126.171",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.215.126.171"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "us-west20009.discord.gg": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.215.93.85",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T08:03:15Z",
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "us-west20009.discord.gg",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": {
+        "at": "2026-08-21T08:03:15Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.215.93.85",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.215.93.85"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "www.discord.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 301,
+          "ip": "162.159.128.233",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T08:03:15Z",
+      "history": [
+        {
+          "at": "2026-08-21T08:03:15Z",
+          "http_status": 301,
+          "ip": "162.159.128.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "www.discord.com",
+      "last_check": "2026-08-21T08:03:15Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "162.159.128.233",
+        "162.159.135.232",
+        "162.159.136.232"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T08:03:15Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    }
+  },
+  "updated_at": "2026-08-21T08:03:15Z",
+  "version": 3
+}
