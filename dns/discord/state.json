@@ -14,10 +14,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -76,10 +76,10 @@
         "162.159.134.233",
         "162.159.135.233"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -126,18 +126,18 @@
     },
     "cdn2-media.discordapp.net": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:03:15Z",
       "hostname": "cdn2-media.discordapp.net",
       "ipv4": [],
-      "last_check": "2026-08-21T08:03:15Z",
-      "last_failure": "2026-08-21T08:03:15Z",
-      "last_negative": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_failure": "2026-08-21T11:59:53Z",
+      "last_negative": "2026-08-21T11:59:53Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T08:03:15Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -171,10 +171,10 @@
         "216.198.53.11",
         "216.198.54.11"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -224,10 +224,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -287,10 +287,10 @@
         "162.159.135.234",
         "162.159.136.234"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -350,10 +350,10 @@
         "162.159.134.233",
         "162.159.135.233"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -401,18 +401,18 @@
     },
     "discordapp.net": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "discordapp.net",
       "ipv4": [],
-      "last_check": "2026-08-21T08:03:15Z",
-      "last_failure": "2026-08-21T08:03:15Z",
-      "last_negative": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_failure": "2026-08-21T11:59:53Z",
+      "last_negative": "2026-08-21T11:59:53Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T08:03:15Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -447,10 +447,10 @@
         "104.18.48.115",
         "104.18.52.172"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -496,10 +496,10 @@
       "ipv4": [
         "34.126.226.51"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -542,10 +542,10 @@
       "ipv4": [
         "100.24.90.130"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -588,10 +588,10 @@
       "ipv4": [
         "136.68.154.7"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -637,10 +637,10 @@
         "151.101.130.133",
         "151.101.194.133"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -682,6 +682,144 @@
       ],
       "status": "active"
     },
+    "finland14000.discord.gg": {
+      "canonical_name": "finland14000.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14000.discord.gg",
+      "ipv4": [
+        "35.217.20.191"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14000.discord.gg",
+          "ipv4": [
+            "35.217.20.191"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14000.discord.gg",
+          "ipv4": [
+            "35.217.20.191"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14000.discord.gg",
+          "ipv4": [
+            "35.217.20.191"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "finland14001.discord.gg": {
+      "canonical_name": "finland14001.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14001.discord.gg",
+      "ipv4": [
+        "35.217.52.93"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14001.discord.gg",
+          "ipv4": [
+            "35.217.52.93"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14001.discord.gg",
+          "ipv4": [
+            "35.217.52.93"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14001.discord.gg",
+          "ipv4": [
+            "35.217.52.93"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "finland14007.discord.gg": {
+      "canonical_name": "finland14007.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14007.discord.gg",
+      "ipv4": [
+        "35.217.63.180"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14007.discord.gg",
+          "ipv4": [
+            "35.217.63.180"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14007.discord.gg",
+          "ipv4": [
+            "35.217.63.180"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14007.discord.gg",
+          "ipv4": [
+            "35.217.63.180"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
     "finland14009.discord.gg": {
       "canonical_name": "finland14009.discord.gg",
       "consecutive_negative_checks": 0,
@@ -692,10 +830,10 @@
       "ipv4": [
         "35.217.42.214"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -718,6 +856,512 @@
           "canonical_name": "finland14009.discord.gg",
           "ipv4": [
             "35.217.42.214"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "finland14012.discord.gg": {
+      "canonical_name": "finland14012.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14012.discord.gg",
+      "ipv4": [
+        "35.217.19.49"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14012.discord.gg",
+          "ipv4": [
+            "35.217.19.49"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14012.discord.gg",
+          "ipv4": [
+            "35.217.19.49"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14012.discord.gg",
+          "ipv4": [
+            "35.217.19.49"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "finland14019.discord.gg": {
+      "canonical_name": "finland14019.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14019.discord.gg",
+      "ipv4": [
+        "35.217.9.242"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14019.discord.gg",
+          "ipv4": [
+            "35.217.9.242"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14019.discord.gg",
+          "ipv4": [
+            "35.217.9.242"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14019.discord.gg",
+          "ipv4": [
+            "35.217.9.242"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "finland14020.discord.gg": {
+      "canonical_name": "finland14020.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14020.discord.gg",
+      "ipv4": [
+        "35.217.12.107"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14020.discord.gg",
+          "ipv4": [
+            "35.217.12.107"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14020.discord.gg",
+          "ipv4": [
+            "35.217.12.107"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14020.discord.gg",
+          "ipv4": [
+            "35.217.12.107"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "finland14029.discord.gg": {
+      "canonical_name": "finland14029.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14029.discord.gg",
+      "ipv4": [
+        "35.217.44.51"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14029.discord.gg",
+          "ipv4": [
+            "35.217.44.51"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14029.discord.gg",
+          "ipv4": [
+            "35.217.44.51"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14029.discord.gg",
+          "ipv4": [
+            "35.217.44.51"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "finland14031.discord.gg": {
+      "canonical_name": "finland14031.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14031.discord.gg",
+      "ipv4": [
+        "35.217.47.13"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14031.discord.gg",
+          "ipv4": [
+            "35.217.47.13"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14031.discord.gg",
+          "ipv4": [
+            "35.217.47.13"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14031.discord.gg",
+          "ipv4": [
+            "35.217.47.13"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "finland14035.discord.gg": {
+      "canonical_name": "finland14035.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14035.discord.gg",
+      "ipv4": [
+        "35.217.9.94"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14035.discord.gg",
+          "ipv4": [
+            "35.217.9.94"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14035.discord.gg",
+          "ipv4": [
+            "35.217.9.94"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14035.discord.gg",
+          "ipv4": [
+            "35.217.9.94"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "finland14052.discord.gg": {
+      "canonical_name": "finland14052.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14052.discord.gg",
+      "ipv4": [
+        "35.217.6.54"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14052.discord.gg",
+          "ipv4": [
+            "35.217.6.54"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14052.discord.gg",
+          "ipv4": [
+            "35.217.6.54"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14052.discord.gg",
+          "ipv4": [
+            "35.217.6.54"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "finland14055.discord.gg": {
+      "canonical_name": "finland14055.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14055.discord.gg",
+      "ipv4": [
+        "35.217.15.90"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14055.discord.gg",
+          "ipv4": [
+            "35.217.15.90"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14055.discord.gg",
+          "ipv4": [
+            "35.217.15.90"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14055.discord.gg",
+          "ipv4": [
+            "35.217.15.90"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "finland14063.discord.gg": {
+      "canonical_name": "finland14063.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14063.discord.gg",
+      "ipv4": [
+        "35.217.50.234"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14063.discord.gg",
+          "ipv4": [
+            "35.217.50.234"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14063.discord.gg",
+          "ipv4": [
+            "35.217.50.234"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14063.discord.gg",
+          "ipv4": [
+            "35.217.50.234"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "finland14064.discord.gg": {
+      "canonical_name": "finland14064.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14064.discord.gg",
+      "ipv4": [
+        "35.217.42.9"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14064.discord.gg",
+          "ipv4": [
+            "35.217.42.9"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14064.discord.gg",
+          "ipv4": [
+            "35.217.42.9"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14064.discord.gg",
+          "ipv4": [
+            "35.217.42.9"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "finland14069.discord.gg": {
+      "canonical_name": "finland14069.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14069.discord.gg",
+      "ipv4": [
+        "35.217.40.12"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14069.discord.gg",
+          "ipv4": [
+            "35.217.40.12"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14069.discord.gg",
+          "ipv4": [
+            "35.217.40.12"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14069.discord.gg",
+          "ipv4": [
+            "35.217.40.12"
           ],
           "status": "OK"
         }
@@ -738,10 +1382,10 @@
       "ipv4": [
         "35.217.36.87"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -774,6 +1418,190 @@
       ],
       "status": "active"
     },
+    "finland14095.discord.gg": {
+      "canonical_name": "finland14095.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14095.discord.gg",
+      "ipv4": [
+        "35.217.8.239"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14095.discord.gg",
+          "ipv4": [
+            "35.217.8.239"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14095.discord.gg",
+          "ipv4": [
+            "35.217.8.239"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14095.discord.gg",
+          "ipv4": [
+            "35.217.8.239"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "finland14098.discord.gg": {
+      "canonical_name": "finland14098.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14098.discord.gg",
+      "ipv4": [
+        "35.217.27.183"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14098.discord.gg",
+          "ipv4": [
+            "35.217.27.183"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14098.discord.gg",
+          "ipv4": [
+            "35.217.27.183"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14098.discord.gg",
+          "ipv4": [
+            "35.217.27.183"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "finland14100.discord.gg": {
+      "canonical_name": "finland14100.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14100.discord.gg",
+      "ipv4": [
+        "35.217.18.60"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14100.discord.gg",
+          "ipv4": [
+            "35.217.18.60"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14100.discord.gg",
+          "ipv4": [
+            "35.217.18.60"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14100.discord.gg",
+          "ipv4": [
+            "35.217.18.60"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "finland14117.discord.gg": {
+      "canonical_name": "finland14117.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "finland14117.discord.gg",
+      "ipv4": [
+        "35.217.14.121"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "finland14117.discord.gg",
+          "ipv4": [
+            "35.217.14.121"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "finland14117.discord.gg",
+          "ipv4": [
+            "35.217.14.121"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "finland14117.discord.gg",
+          "ipv4": [
+            "35.217.14.121"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
     "finland14118.discord.gg": {
       "canonical_name": "finland14118.discord.gg",
       "consecutive_negative_checks": 0,
@@ -784,10 +1612,10 @@
       "ipv4": [
         "35.217.34.164"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -830,10 +1658,10 @@
       "ipv4": [
         "35.217.29.127"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -876,10 +1704,10 @@
       "ipv4": [
         "35.217.53.82"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -922,10 +1750,10 @@
       "ipv4": [
         "35.217.60.176"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -968,10 +1796,10 @@
       "ipv4": [
         "35.217.62.197"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1014,10 +1842,10 @@
       "ipv4": [
         "35.217.45.215"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1060,10 +1888,10 @@
       "ipv4": [
         "35.217.60.29"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1106,10 +1934,10 @@
       "ipv4": [
         "35.217.56.82"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1152,10 +1980,10 @@
       "ipv4": [
         "35.217.39.135"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1198,10 +2026,10 @@
       "ipv4": [
         "35.217.49.22"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1244,10 +2072,10 @@
       "ipv4": [
         "35.217.8.172"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1290,10 +2118,10 @@
       "ipv4": [
         "35.217.28.208"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1336,10 +2164,10 @@
       "ipv4": [
         "35.217.23.62"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1382,10 +2210,10 @@
       "ipv4": [
         "35.217.13.109"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1428,10 +2256,10 @@
       "ipv4": [
         "35.217.14.72"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1474,10 +2302,10 @@
       "ipv4": [
         "35.217.11.71"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1520,10 +2348,10 @@
       "ipv4": [
         "35.217.59.117"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1566,10 +2394,10 @@
       "ipv4": [
         "35.217.26.31"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1612,10 +2440,10 @@
       "ipv4": [
         "35.217.33.70"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1658,10 +2486,10 @@
       "ipv4": [
         "35.217.9.201"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1704,10 +2532,10 @@
       "ipv4": [
         "35.217.63.135"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1750,10 +2578,10 @@
       "ipv4": [
         "35.217.10.28"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1796,10 +2624,10 @@
       "ipv4": [
         "35.217.31.203"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1842,10 +2670,10 @@
       "ipv4": [
         "35.217.43.201"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1888,10 +2716,10 @@
       "ipv4": [
         "35.217.42.66"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1934,10 +2762,10 @@
       "ipv4": [
         "35.217.37.201"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1980,10 +2808,10 @@
       "ipv4": [
         "35.217.58.12"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2026,10 +2854,10 @@
       "ipv4": [
         "35.217.7.37"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2072,10 +2900,10 @@
       "ipv4": [
         "35.217.34.211"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2118,10 +2946,10 @@
       "ipv4": [
         "35.217.52.126"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2168,10 +2996,10 @@
         "162.159.135.234",
         "162.159.136.234"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2216,6 +3044,190 @@
       ],
       "status": "active"
     },
+    "india11000.discord.gg": {
+      "canonical_name": "india11000.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "india11000.discord.gg",
+      "ipv4": [
+        "35.207.236.139"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "india11000.discord.gg",
+          "ipv4": [
+            "35.207.236.139"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "india11000.discord.gg",
+          "ipv4": [
+            "35.207.236.139"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "india11000.discord.gg",
+          "ipv4": [
+            "35.207.236.139"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "india11001.discord.gg": {
+      "canonical_name": "india11001.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "india11001.discord.gg",
+      "ipv4": [
+        "35.207.192.56"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "india11001.discord.gg",
+          "ipv4": [
+            "35.207.192.56"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "india11001.discord.gg",
+          "ipv4": [
+            "35.207.192.56"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "india11001.discord.gg",
+          "ipv4": [
+            "35.207.192.56"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "india11002.discord.gg": {
+      "canonical_name": "india11002.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "india11002.discord.gg",
+      "ipv4": [
+        "35.207.239.14"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "india11002.discord.gg",
+          "ipv4": [
+            "35.207.239.14"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "india11002.discord.gg",
+          "ipv4": [
+            "35.207.239.14"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "india11002.discord.gg",
+          "ipv4": [
+            "35.207.239.14"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "india11009.discord.gg": {
+      "canonical_name": "india11009.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "india11009.discord.gg",
+      "ipv4": [
+        "35.207.253.122"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "india11009.discord.gg",
+          "ipv4": [
+            "35.207.253.122"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "india11009.discord.gg",
+          "ipv4": [
+            "35.207.253.122"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "india11009.discord.gg",
+          "ipv4": [
+            "35.207.253.122"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
     "india11014.discord.gg": {
       "canonical_name": "india11014.discord.gg",
       "consecutive_negative_checks": 0,
@@ -2226,10 +3238,10 @@
       "ipv4": [
         "35.207.197.228"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2272,10 +3284,10 @@
       "ipv4": [
         "35.207.194.63"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2318,10 +3330,10 @@
       "ipv4": [
         "35.207.243.61"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2354,6 +3366,98 @@
       ],
       "status": "active"
     },
+    "india11034.discord.gg": {
+      "canonical_name": "india11034.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "india11034.discord.gg",
+      "ipv4": [
+        "35.207.200.235"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "india11034.discord.gg",
+          "ipv4": [
+            "35.207.200.235"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "india11034.discord.gg",
+          "ipv4": [
+            "35.207.200.235"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "india11034.discord.gg",
+          "ipv4": [
+            "35.207.200.235"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "india11040.discord.gg": {
+      "canonical_name": "india11040.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "india11040.discord.gg",
+      "ipv4": [
+        "35.207.237.250"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "india11040.discord.gg",
+          "ipv4": [
+            "35.207.237.250"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "india11040.discord.gg",
+          "ipv4": [
+            "35.207.237.250"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "india11040.discord.gg",
+          "ipv4": [
+            "35.207.237.250"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
     "india11041.discord.gg": {
       "canonical_name": "india11041.discord.gg",
       "consecutive_negative_checks": 0,
@@ -2364,10 +3468,10 @@
       "ipv4": [
         "35.207.248.51"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2410,10 +3514,10 @@
       "ipv4": [
         "35.207.252.67"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2446,6 +3550,98 @@
       ],
       "status": "active"
     },
+    "japan13002.discord.gg": {
+      "canonical_name": "japan13002.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "japan13002.discord.gg",
+      "ipv4": [
+        "35.213.110.17"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "japan13002.discord.gg",
+          "ipv4": [
+            "35.213.110.17"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "japan13002.discord.gg",
+          "ipv4": [
+            "35.213.110.17"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "japan13002.discord.gg",
+          "ipv4": [
+            "35.213.110.17"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "japan13008.discord.gg": {
+      "canonical_name": "japan13008.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "japan13008.discord.gg",
+      "ipv4": [
+        "35.213.119.136"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "japan13008.discord.gg",
+          "ipv4": [
+            "35.213.119.136"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "japan13008.discord.gg",
+          "ipv4": [
+            "35.213.119.136"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "japan13008.discord.gg",
+          "ipv4": [
+            "35.213.119.136"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
     "japan13024.discord.gg": {
       "canonical_name": "japan13024.discord.gg",
       "consecutive_negative_checks": 0,
@@ -2456,10 +3652,10 @@
       "ipv4": [
         "35.213.73.18"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2502,10 +3698,10 @@
       "ipv4": [
         "35.213.44.74"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2552,10 +3748,10 @@
         "162.159.133.232",
         "162.159.134.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2614,10 +3810,10 @@
         "162.159.133.232",
         "162.159.134.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2672,10 +3868,10 @@
       "ipv4": [
         "34.54.137.142"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2722,10 +3918,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2784,10 +3980,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2846,10 +4042,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2904,10 +4100,10 @@
       "ipv4": [
         "35.190.41.53"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2940,6 +4136,52 @@
       ],
       "status": "active"
     },
+    "santiago11005.discord.gg": {
+      "canonical_name": "santiago11005.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "santiago11005.discord.gg",
+      "ipv4": [
+        "34.0.49.205"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "santiago11005.discord.gg",
+          "ipv4": [
+            "34.0.49.205"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "santiago11005.discord.gg",
+          "ipv4": [
+            "34.0.49.205"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "santiago11005.discord.gg",
+          "ipv4": [
+            "34.0.49.205"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
     "santiago11006.discord.gg": {
       "canonical_name": "santiago11006.discord.gg",
       "consecutive_negative_checks": 0,
@@ -2950,10 +4192,10 @@
       "ipv4": [
         "34.0.50.221"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2976,6 +4218,52 @@
           "canonical_name": "santiago11006.discord.gg",
           "ipv4": [
             "34.0.50.221"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "santiago11007.discord.gg": {
+      "canonical_name": "santiago11007.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "santiago11007.discord.gg",
+      "ipv4": [
+        "34.0.57.107"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "santiago11007.discord.gg",
+          "ipv4": [
+            "34.0.57.107"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "santiago11007.discord.gg",
+          "ipv4": [
+            "34.0.57.107"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "santiago11007.discord.gg",
+          "ipv4": [
+            "34.0.57.107"
           ],
           "status": "OK"
         }
@@ -2996,10 +4284,10 @@
       "ipv4": [
         "34.0.54.153"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3022,6 +4310,282 @@
           "canonical_name": "santiago11009.discord.gg",
           "ipv4": [
             "34.0.54.153"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "santiago11013.discord.gg": {
+      "canonical_name": "santiago11013.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "santiago11013.discord.gg",
+      "ipv4": [
+        "34.0.60.160"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "santiago11013.discord.gg",
+          "ipv4": [
+            "34.0.60.160"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "santiago11013.discord.gg",
+          "ipv4": [
+            "34.0.60.160"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "santiago11013.discord.gg",
+          "ipv4": [
+            "34.0.60.160"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "santiago11018.discord.gg": {
+      "canonical_name": "santiago11018.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "santiago11018.discord.gg",
+      "ipv4": [
+        "34.0.59.189"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "santiago11018.discord.gg",
+          "ipv4": [
+            "34.0.59.189"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "santiago11018.discord.gg",
+          "ipv4": [
+            "34.0.59.189"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "santiago11018.discord.gg",
+          "ipv4": [
+            "34.0.59.189"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "santiago11021.discord.gg": {
+      "canonical_name": "santiago11021.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "santiago11021.discord.gg",
+      "ipv4": [
+        "34.0.61.110"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "santiago11021.discord.gg",
+          "ipv4": [
+            "34.0.61.110"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "santiago11021.discord.gg",
+          "ipv4": [
+            "34.0.61.110"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "santiago11021.discord.gg",
+          "ipv4": [
+            "34.0.61.110"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "santiago11022.discord.gg": {
+      "canonical_name": "santiago11022.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "santiago11022.discord.gg",
+      "ipv4": [
+        "34.0.48.105"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "santiago11022.discord.gg",
+          "ipv4": [
+            "34.0.48.105"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "santiago11022.discord.gg",
+          "ipv4": [
+            "34.0.48.105"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "santiago11022.discord.gg",
+          "ipv4": [
+            "34.0.48.105"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "santiago11023.discord.gg": {
+      "canonical_name": "santiago11023.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "santiago11023.discord.gg",
+      "ipv4": [
+        "34.0.53.193"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "santiago11023.discord.gg",
+          "ipv4": [
+            "34.0.53.193"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "santiago11023.discord.gg",
+          "ipv4": [
+            "34.0.53.193"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "santiago11023.discord.gg",
+          "ipv4": [
+            "34.0.53.193"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "santiago11024.discord.gg": {
+      "canonical_name": "santiago11024.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "santiago11024.discord.gg",
+      "ipv4": [
+        "34.0.62.69"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "santiago11024.discord.gg",
+          "ipv4": [
+            "34.0.62.69"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "santiago11024.discord.gg",
+          "ipv4": [
+            "34.0.62.69"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "santiago11024.discord.gg",
+          "ipv4": [
+            "34.0.62.69"
           ],
           "status": "OK"
         }
@@ -3042,10 +4606,10 @@
       "ipv4": [
         "34.0.59.83"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3078,6 +4642,262 @@
       ],
       "status": "active"
     },
+    "santiago11027.discord.gg": {
+      "canonical_name": "santiago11027.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "santiago11027.discord.gg",
+      "ipv4": [
+        "34.0.62.143"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "santiago11027.discord.gg",
+          "ipv4": [
+            "34.0.62.143"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "santiago11027.discord.gg",
+          "ipv4": [
+            "34.0.62.143"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "santiago11027.discord.gg",
+          "ipv4": [
+            "34.0.62.143"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "santiago11028.discord.gg": {
+      "canonical_name": "santiago11028.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "santiago11028.discord.gg",
+      "ipv4": [
+        "34.0.52.157"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "santiago11028.discord.gg",
+          "ipv4": [
+            "34.0.52.157"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "santiago11028.discord.gg",
+          "ipv4": [
+            "34.0.52.157"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "santiago11028.discord.gg",
+          "ipv4": [
+            "34.0.52.157"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "santiago11029.discord.gg": {
+      "canonical_name": "santiago11029.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "santiago11029.discord.gg",
+      "ipv4": [
+        "34.0.54.6"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "santiago11029.discord.gg",
+          "ipv4": [
+            "34.0.54.6"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "santiago11029.discord.gg",
+          "ipv4": [
+            "34.0.54.6"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "santiago11029.discord.gg",
+          "ipv4": [
+            "34.0.54.6"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "santiago11038.discord.gg": {
+      "canonical_name": "santiago11038.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "santiago11038.discord.gg",
+      "ipv4": [
+        "34.0.54.68"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "santiago11038.discord.gg",
+          "ipv4": [
+            "34.0.54.68"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "santiago11038.discord.gg",
+          "ipv4": [
+            "34.0.54.68"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "santiago11038.discord.gg",
+          "ipv4": [
+            "34.0.54.68"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "santiago11040.discord.gg": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "santiago11040.discord.gg",
+      "ipv4": [],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_failure": "2026-08-21T11:59:53Z",
+      "last_negative": "2026-08-21T11:59:53Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T11:59:53Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "pending"
+    },
+    "santiago11051.discord.gg": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "santiago11051.discord.gg",
+      "ipv4": [],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_failure": "2026-08-21T11:59:53Z",
+      "last_negative": "2026-08-21T11:59:53Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T11:59:53Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "pending"
+    },
     "snowsgiving-tale-2022-da.discord.com": {
       "canonical_name": "snowsgiving-tale-2022-da.discord.com",
       "consecutive_negative_checks": 0,
@@ -3092,10 +4912,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3154,10 +4974,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3216,10 +5036,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3278,10 +5098,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3340,10 +5160,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3402,10 +5222,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3464,10 +5284,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3526,10 +5346,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3588,10 +5408,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3650,10 +5470,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3712,10 +5532,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3774,10 +5594,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3836,10 +5656,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3898,10 +5718,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3960,10 +5780,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4022,10 +5842,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4084,10 +5904,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4132,6 +5952,98 @@
       ],
       "status": "active"
     },
+    "south-korea-streams14009.discord.gg": {
+      "canonical_name": "south-korea-streams14009.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14009.discord.gg",
+      "ipv4": [
+        "35.213.29.30"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14009.discord.gg",
+          "ipv4": [
+            "35.213.29.30"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14009.discord.gg",
+          "ipv4": [
+            "35.213.29.30"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14009.discord.gg",
+          "ipv4": [
+            "35.213.29.30"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14014.discord.gg": {
+      "canonical_name": "south-korea-streams14014.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14014.discord.gg",
+      "ipv4": [
+        "35.213.73.43"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14014.discord.gg",
+          "ipv4": [
+            "35.213.73.43"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14014.discord.gg",
+          "ipv4": [
+            "35.213.73.43"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14014.discord.gg",
+          "ipv4": [
+            "35.213.73.43"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
     "south-korea-streams14019.discord.gg": {
       "canonical_name": "south-korea-streams14019.discord.gg",
       "consecutive_negative_checks": 0,
@@ -4142,10 +6054,10 @@
       "ipv4": [
         "35.213.116.20"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4168,6 +6080,374 @@
           "canonical_name": "south-korea-streams14019.discord.gg",
           "ipv4": [
             "35.213.116.20"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14024.discord.gg": {
+      "canonical_name": "south-korea-streams14024.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14024.discord.gg",
+      "ipv4": [
+        "35.213.126.118"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14024.discord.gg",
+          "ipv4": [
+            "35.213.126.118"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14024.discord.gg",
+          "ipv4": [
+            "35.213.126.118"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14024.discord.gg",
+          "ipv4": [
+            "35.213.126.118"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14029.discord.gg": {
+      "canonical_name": "south-korea-streams14029.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14029.discord.gg",
+      "ipv4": [
+        "35.213.96.14"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14029.discord.gg",
+          "ipv4": [
+            "35.213.96.14"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14029.discord.gg",
+          "ipv4": [
+            "35.213.96.14"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14029.discord.gg",
+          "ipv4": [
+            "35.213.96.14"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14031.discord.gg": {
+      "canonical_name": "south-korea-streams14031.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14031.discord.gg",
+      "ipv4": [
+        "35.213.107.47"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14031.discord.gg",
+          "ipv4": [
+            "35.213.107.47"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14031.discord.gg",
+          "ipv4": [
+            "35.213.107.47"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14031.discord.gg",
+          "ipv4": [
+            "35.213.107.47"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14032.discord.gg": {
+      "canonical_name": "south-korea-streams14032.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14032.discord.gg",
+      "ipv4": [
+        "35.213.75.143"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14032.discord.gg",
+          "ipv4": [
+            "35.213.75.143"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14032.discord.gg",
+          "ipv4": [
+            "35.213.75.143"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14032.discord.gg",
+          "ipv4": [
+            "35.213.75.143"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14033.discord.gg": {
+      "canonical_name": "south-korea-streams14033.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14033.discord.gg",
+      "ipv4": [
+        "35.213.100.244"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14033.discord.gg",
+          "ipv4": [
+            "35.213.100.244"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14033.discord.gg",
+          "ipv4": [
+            "35.213.100.244"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14033.discord.gg",
+          "ipv4": [
+            "35.213.100.244"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14037.discord.gg": {
+      "canonical_name": "south-korea-streams14037.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14037.discord.gg",
+      "ipv4": [
+        "35.213.23.156"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14037.discord.gg",
+          "ipv4": [
+            "35.213.23.156"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14037.discord.gg",
+          "ipv4": [
+            "35.213.23.156"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14037.discord.gg",
+          "ipv4": [
+            "35.213.23.156"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14041.discord.gg": {
+      "canonical_name": "south-korea-streams14041.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14041.discord.gg",
+      "ipv4": [
+        "35.213.125.232"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14041.discord.gg",
+          "ipv4": [
+            "35.213.125.232"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14041.discord.gg",
+          "ipv4": [
+            "35.213.125.232"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14041.discord.gg",
+          "ipv4": [
+            "35.213.125.232"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14042.discord.gg": {
+      "canonical_name": "south-korea-streams14042.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14042.discord.gg",
+      "ipv4": [
+        "35.213.102.22"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14042.discord.gg",
+          "ipv4": [
+            "35.213.102.22"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14042.discord.gg",
+          "ipv4": [
+            "35.213.102.22"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14042.discord.gg",
+          "ipv4": [
+            "35.213.102.22"
           ],
           "status": "OK"
         }
@@ -4188,10 +6468,10 @@
       "ipv4": [
         "35.213.88.251"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4224,6 +6504,282 @@
       ],
       "status": "active"
     },
+    "south-korea-streams14048.discord.gg": {
+      "canonical_name": "south-korea-streams14048.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14048.discord.gg",
+      "ipv4": [
+        "35.213.83.172"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14048.discord.gg",
+          "ipv4": [
+            "35.213.83.172"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14048.discord.gg",
+          "ipv4": [
+            "35.213.83.172"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14048.discord.gg",
+          "ipv4": [
+            "35.213.83.172"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14049.discord.gg": {
+      "canonical_name": "south-korea-streams14049.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14049.discord.gg",
+      "ipv4": [
+        "35.213.80.218"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14049.discord.gg",
+          "ipv4": [
+            "35.213.80.218"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14049.discord.gg",
+          "ipv4": [
+            "35.213.80.218"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14049.discord.gg",
+          "ipv4": [
+            "35.213.80.218"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14050.discord.gg": {
+      "canonical_name": "south-korea-streams14050.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14050.discord.gg",
+      "ipv4": [
+        "35.213.113.40"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14050.discord.gg",
+          "ipv4": [
+            "35.213.113.40"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14050.discord.gg",
+          "ipv4": [
+            "35.213.113.40"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14050.discord.gg",
+          "ipv4": [
+            "35.213.113.40"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14067.discord.gg": {
+      "canonical_name": "south-korea-streams14067.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14067.discord.gg",
+      "ipv4": [
+        "35.213.20.106"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14067.discord.gg",
+          "ipv4": [
+            "35.213.20.106"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14067.discord.gg",
+          "ipv4": [
+            "35.213.20.106"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14067.discord.gg",
+          "ipv4": [
+            "35.213.20.106"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14069.discord.gg": {
+      "canonical_name": "south-korea-streams14069.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14069.discord.gg",
+      "ipv4": [
+        "35.213.0.51"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14069.discord.gg",
+          "ipv4": [
+            "35.213.0.51"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14069.discord.gg",
+          "ipv4": [
+            "35.213.0.51"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14069.discord.gg",
+          "ipv4": [
+            "35.213.0.51"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14070.discord.gg": {
+      "canonical_name": "south-korea-streams14070.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14070.discord.gg",
+      "ipv4": [
+        "35.213.105.110"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14070.discord.gg",
+          "ipv4": [
+            "35.213.105.110"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14070.discord.gg",
+          "ipv4": [
+            "35.213.105.110"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14070.discord.gg",
+          "ipv4": [
+            "35.213.105.110"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
     "south-korea-streams14073.discord.gg": {
       "canonical_name": "south-korea-streams14073.discord.gg",
       "consecutive_negative_checks": 0,
@@ -4234,10 +6790,10 @@
       "ipv4": [
         "35.213.58.104"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4280,10 +6836,10 @@
       "ipv4": [
         "35.213.99.135"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4306,6 +6862,282 @@
           "canonical_name": "south-korea-streams14087.discord.gg",
           "ipv4": [
             "35.213.99.135"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14094.discord.gg": {
+      "canonical_name": "south-korea-streams14094.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14094.discord.gg",
+      "ipv4": [
+        "35.213.118.19"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14094.discord.gg",
+          "ipv4": [
+            "35.213.118.19"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14094.discord.gg",
+          "ipv4": [
+            "35.213.118.19"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14094.discord.gg",
+          "ipv4": [
+            "35.213.118.19"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14098.discord.gg": {
+      "canonical_name": "south-korea-streams14098.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14098.discord.gg",
+      "ipv4": [
+        "35.213.38.139"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14098.discord.gg",
+          "ipv4": [
+            "35.213.38.139"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14098.discord.gg",
+          "ipv4": [
+            "35.213.38.139"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14098.discord.gg",
+          "ipv4": [
+            "35.213.38.139"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14104.discord.gg": {
+      "canonical_name": "south-korea-streams14104.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14104.discord.gg",
+      "ipv4": [
+        "35.213.91.140"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14104.discord.gg",
+          "ipv4": [
+            "35.213.91.140"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14104.discord.gg",
+          "ipv4": [
+            "35.213.91.140"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14104.discord.gg",
+          "ipv4": [
+            "35.213.91.140"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14107.discord.gg": {
+      "canonical_name": "south-korea-streams14107.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14107.discord.gg",
+      "ipv4": [
+        "35.213.44.153"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14107.discord.gg",
+          "ipv4": [
+            "35.213.44.153"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14107.discord.gg",
+          "ipv4": [
+            "35.213.44.153"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14107.discord.gg",
+          "ipv4": [
+            "35.213.44.153"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14111.discord.gg": {
+      "canonical_name": "south-korea-streams14111.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14111.discord.gg",
+      "ipv4": [
+        "35.213.26.243"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14111.discord.gg",
+          "ipv4": [
+            "35.213.26.243"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14111.discord.gg",
+          "ipv4": [
+            "35.213.26.243"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14111.discord.gg",
+          "ipv4": [
+            "35.213.26.243"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14112.discord.gg": {
+      "canonical_name": "south-korea-streams14112.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14112.discord.gg",
+      "ipv4": [
+        "35.213.1.223"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14112.discord.gg",
+          "ipv4": [
+            "35.213.1.223"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14112.discord.gg",
+          "ipv4": [
+            "35.213.1.223"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14112.discord.gg",
+          "ipv4": [
+            "35.213.1.223"
           ],
           "status": "OK"
         }
@@ -4326,10 +7158,10 @@
       "ipv4": [
         "35.213.37.114"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4352,6 +7184,98 @@
           "canonical_name": "south-korea-streams14113.discord.gg",
           "ipv4": [
             "35.213.37.114"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14114.discord.gg": {
+      "canonical_name": "south-korea-streams14114.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14114.discord.gg",
+      "ipv4": [
+        "35.213.109.199"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14114.discord.gg",
+          "ipv4": [
+            "35.213.109.199"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14114.discord.gg",
+          "ipv4": [
+            "35.213.109.199"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14114.discord.gg",
+          "ipv4": [
+            "35.213.109.199"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14117.discord.gg": {
+      "canonical_name": "south-korea-streams14117.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14117.discord.gg",
+      "ipv4": [
+        "35.213.17.123"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14117.discord.gg",
+          "ipv4": [
+            "35.213.17.123"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14117.discord.gg",
+          "ipv4": [
+            "35.213.17.123"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14117.discord.gg",
+          "ipv4": [
+            "35.213.17.123"
           ],
           "status": "OK"
         }
@@ -4372,10 +7296,10 @@
       "ipv4": [
         "35.213.91.110"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4408,6 +7332,98 @@
       ],
       "status": "active"
     },
+    "south-korea-streams14120.discord.gg": {
+      "canonical_name": "south-korea-streams14120.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14120.discord.gg",
+      "ipv4": [
+        "35.213.19.68"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14120.discord.gg",
+          "ipv4": [
+            "35.213.19.68"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14120.discord.gg",
+          "ipv4": [
+            "35.213.19.68"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14120.discord.gg",
+          "ipv4": [
+            "35.213.19.68"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea-streams14144.discord.gg": {
+      "canonical_name": "south-korea-streams14144.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea-streams14144.discord.gg",
+      "ipv4": [
+        "35.213.114.194"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea-streams14144.discord.gg",
+          "ipv4": [
+            "35.213.114.194"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea-streams14144.discord.gg",
+          "ipv4": [
+            "35.213.114.194"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea-streams14144.discord.gg",
+          "ipv4": [
+            "35.213.114.194"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
     "south-korea12002.discord.gg": {
       "canonical_name": "south-korea12002.discord.gg",
       "consecutive_negative_checks": 0,
@@ -4418,10 +7434,10 @@
       "ipv4": [
         "35.216.29.202"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4464,10 +7480,10 @@
       "ipv4": [
         "35.216.81.126"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4510,10 +7526,10 @@
       "ipv4": [
         "35.216.45.86"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4556,10 +7572,10 @@
       "ipv4": [
         "35.216.13.2"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4602,10 +7618,10 @@
       "ipv4": [
         "35.216.62.146"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4648,10 +7664,10 @@
       "ipv4": [
         "35.216.45.28"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4694,10 +7710,10 @@
       "ipv4": [
         "35.216.7.48"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4740,10 +7756,10 @@
       "ipv4": [
         "35.216.110.157"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4786,10 +7802,10 @@
       "ipv4": [
         "35.216.9.66"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4832,10 +7848,10 @@
       "ipv4": [
         "35.216.7.26"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4878,10 +7894,10 @@
       "ipv4": [
         "35.216.33.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4924,10 +7940,10 @@
       "ipv4": [
         "35.216.18.173"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4970,10 +7986,10 @@
       "ipv4": [
         "35.216.85.138"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5016,10 +8032,10 @@
       "ipv4": [
         "35.216.83.37"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5062,10 +8078,10 @@
       "ipv4": [
         "35.216.34.209"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5108,10 +8124,10 @@
       "ipv4": [
         "35.216.28.252"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5154,10 +8170,10 @@
       "ipv4": [
         "35.216.57.62"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5200,10 +8216,10 @@
       "ipv4": [
         "35.216.44.144"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5246,10 +8262,10 @@
       "ipv4": [
         "35.216.36.41"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5272,6 +8288,144 @@
           "canonical_name": "south-korea12052.discord.gg",
           "ipv4": [
             "35.216.36.41"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea13002.discord.gg": {
+      "canonical_name": "south-korea13002.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13002.discord.gg",
+      "ipv4": [
+        "35.216.5.73"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13002.discord.gg",
+          "ipv4": [
+            "35.216.5.73"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13002.discord.gg",
+          "ipv4": [
+            "35.216.5.73"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13002.discord.gg",
+          "ipv4": [
+            "35.216.5.73"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea13004.discord.gg": {
+      "canonical_name": "south-korea13004.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13004.discord.gg",
+      "ipv4": [
+        "35.216.11.38"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13004.discord.gg",
+          "ipv4": [
+            "35.216.11.38"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13004.discord.gg",
+          "ipv4": [
+            "35.216.11.38"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13004.discord.gg",
+          "ipv4": [
+            "35.216.11.38"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea13007.discord.gg": {
+      "canonical_name": "south-korea13007.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13007.discord.gg",
+      "ipv4": [
+        "35.216.19.29"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13007.discord.gg",
+          "ipv4": [
+            "35.216.19.29"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13007.discord.gg",
+          "ipv4": [
+            "35.216.19.29"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13007.discord.gg",
+          "ipv4": [
+            "35.216.19.29"
           ],
           "status": "OK"
         }
@@ -5292,10 +8446,10 @@
       "ipv4": [
         "35.216.113.198"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5318,6 +8472,144 @@
           "canonical_name": "south-korea13010.discord.gg",
           "ipv4": [
             "35.216.113.198"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea13012.discord.gg": {
+      "canonical_name": "south-korea13012.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13012.discord.gg",
+      "ipv4": [
+        "35.216.29.254"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13012.discord.gg",
+          "ipv4": [
+            "35.216.29.254"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13012.discord.gg",
+          "ipv4": [
+            "35.216.29.254"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13012.discord.gg",
+          "ipv4": [
+            "35.216.29.254"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea13014.discord.gg": {
+      "canonical_name": "south-korea13014.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13014.discord.gg",
+      "ipv4": [
+        "35.216.71.52"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13014.discord.gg",
+          "ipv4": [
+            "35.216.71.52"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13014.discord.gg",
+          "ipv4": [
+            "35.216.71.52"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13014.discord.gg",
+          "ipv4": [
+            "35.216.71.52"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea13021.discord.gg": {
+      "canonical_name": "south-korea13021.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13021.discord.gg",
+      "ipv4": [
+        "35.216.110.78"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13021.discord.gg",
+          "ipv4": [
+            "35.216.110.78"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13021.discord.gg",
+          "ipv4": [
+            "35.216.110.78"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13021.discord.gg",
+          "ipv4": [
+            "35.216.110.78"
           ],
           "status": "OK"
         }
@@ -5338,10 +8630,10 @@
       "ipv4": [
         "35.216.68.130"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5364,6 +8656,52 @@
           "canonical_name": "south-korea13024.discord.gg",
           "ipv4": [
             "35.216.68.130"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea13028.discord.gg": {
+      "canonical_name": "south-korea13028.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13028.discord.gg",
+      "ipv4": [
+        "35.216.101.8"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13028.discord.gg",
+          "ipv4": [
+            "35.216.101.8"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13028.discord.gg",
+          "ipv4": [
+            "35.216.101.8"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13028.discord.gg",
+          "ipv4": [
+            "35.216.101.8"
           ],
           "status": "OK"
         }
@@ -5384,10 +8722,10 @@
       "ipv4": [
         "35.216.62.31"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5410,6 +8748,52 @@
           "canonical_name": "south-korea13030.discord.gg",
           "ipv4": [
             "35.216.62.31"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea13032.discord.gg": {
+      "canonical_name": "south-korea13032.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13032.discord.gg",
+      "ipv4": [
+        "35.216.47.219"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13032.discord.gg",
+          "ipv4": [
+            "35.216.47.219"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13032.discord.gg",
+          "ipv4": [
+            "35.216.47.219"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13032.discord.gg",
+          "ipv4": [
+            "35.216.47.219"
           ],
           "status": "OK"
         }
@@ -5430,10 +8814,10 @@
       "ipv4": [
         "35.216.10.207"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5456,6 +8840,52 @@
           "canonical_name": "south-korea13034.discord.gg",
           "ipv4": [
             "35.216.10.207"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea13040.discord.gg": {
+      "canonical_name": "south-korea13040.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13040.discord.gg",
+      "ipv4": [
+        "35.216.40.139"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13040.discord.gg",
+          "ipv4": [
+            "35.216.40.139"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13040.discord.gg",
+          "ipv4": [
+            "35.216.40.139"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13040.discord.gg",
+          "ipv4": [
+            "35.216.40.139"
           ],
           "status": "OK"
         }
@@ -5476,10 +8906,10 @@
       "ipv4": [
         "35.216.26.168"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5512,6 +8942,52 @@
       ],
       "status": "active"
     },
+    "south-korea13046.discord.gg": {
+      "canonical_name": "south-korea13046.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13046.discord.gg",
+      "ipv4": [
+        "35.216.120.231"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13046.discord.gg",
+          "ipv4": [
+            "35.216.120.231"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13046.discord.gg",
+          "ipv4": [
+            "35.216.120.231"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13046.discord.gg",
+          "ipv4": [
+            "35.216.120.231"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
     "south-korea13052.discord.gg": {
       "canonical_name": "south-korea13052.discord.gg",
       "consecutive_negative_checks": 0,
@@ -5522,10 +8998,10 @@
       "ipv4": [
         "35.216.63.112"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5568,10 +9044,10 @@
       "ipv4": [
         "35.216.6.47"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5594,6 +9070,144 @@
           "canonical_name": "south-korea13054.discord.gg",
           "ipv4": [
             "35.216.6.47"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea13056.discord.gg": {
+      "canonical_name": "south-korea13056.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13056.discord.gg",
+      "ipv4": [
+        "35.216.18.177"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13056.discord.gg",
+          "ipv4": [
+            "35.216.18.177"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13056.discord.gg",
+          "ipv4": [
+            "35.216.18.177"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13056.discord.gg",
+          "ipv4": [
+            "35.216.18.177"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea13057.discord.gg": {
+      "canonical_name": "south-korea13057.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13057.discord.gg",
+      "ipv4": [
+        "35.216.96.28"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13057.discord.gg",
+          "ipv4": [
+            "35.216.96.28"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13057.discord.gg",
+          "ipv4": [
+            "35.216.96.28"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13057.discord.gg",
+          "ipv4": [
+            "35.216.96.28"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea13067.discord.gg": {
+      "canonical_name": "south-korea13067.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13067.discord.gg",
+      "ipv4": [
+        "35.216.26.221"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13067.discord.gg",
+          "ipv4": [
+            "35.216.26.221"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13067.discord.gg",
+          "ipv4": [
+            "35.216.26.221"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13067.discord.gg",
+          "ipv4": [
+            "35.216.26.221"
           ],
           "status": "OK"
         }
@@ -5614,10 +9228,10 @@
       "ipv4": [
         "35.216.124.194"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5650,6 +9264,282 @@
       ],
       "status": "active"
     },
+    "south-korea13076.discord.gg": {
+      "canonical_name": "south-korea13076.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13076.discord.gg",
+      "ipv4": [
+        "35.216.107.43"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13076.discord.gg",
+          "ipv4": [
+            "35.216.107.43"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13076.discord.gg",
+          "ipv4": [
+            "35.216.107.43"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13076.discord.gg",
+          "ipv4": [
+            "35.216.107.43"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea13091.discord.gg": {
+      "canonical_name": "south-korea13091.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13091.discord.gg",
+      "ipv4": [
+        "35.216.48.198"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13091.discord.gg",
+          "ipv4": [
+            "35.216.48.198"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13091.discord.gg",
+          "ipv4": [
+            "35.216.48.198"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13091.discord.gg",
+          "ipv4": [
+            "35.216.48.198"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea13101.discord.gg": {
+      "canonical_name": "south-korea13101.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13101.discord.gg",
+      "ipv4": [
+        "35.216.57.33"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13101.discord.gg",
+          "ipv4": [
+            "35.216.57.33"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13101.discord.gg",
+          "ipv4": [
+            "35.216.57.33"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13101.discord.gg",
+          "ipv4": [
+            "35.216.57.33"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea13103.discord.gg": {
+      "canonical_name": "south-korea13103.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13103.discord.gg",
+      "ipv4": [
+        "35.216.82.138"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13103.discord.gg",
+          "ipv4": [
+            "35.216.82.138"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13103.discord.gg",
+          "ipv4": [
+            "35.216.82.138"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13103.discord.gg",
+          "ipv4": [
+            "35.216.82.138"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "south-korea13104.discord.gg": {
+      "canonical_name": "south-korea13104.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "south-korea13104.discord.gg",
+      "ipv4": [
+        "35.216.46.47"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "south-korea13104.discord.gg",
+          "ipv4": [
+            "35.216.46.47"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "south-korea13104.discord.gg",
+          "ipv4": [
+            "35.216.46.47"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "south-korea13104.discord.gg",
+          "ipv4": [
+            "35.216.46.47"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "southafrica12002.discord.gg": {
+      "canonical_name": "southafrica12002.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "southafrica12002.discord.gg",
+      "ipv4": [
+        "34.1.209.151"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "southafrica12002.discord.gg",
+          "ipv4": [
+            "34.1.209.151"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "southafrica12002.discord.gg",
+          "ipv4": [
+            "34.1.209.151"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "southafrica12002.discord.gg",
+          "ipv4": [
+            "34.1.209.151"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
     "stage-scale10020.discord.gg": {
       "canonical_name": "stage-scale10020.discord.gg",
       "consecutive_negative_checks": 0,
@@ -5660,10 +9550,10 @@
       "ipv4": [
         "35.215.78.86"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5706,10 +9596,10 @@
       "ipv4": [
         "34.4.28.170"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5752,10 +9642,10 @@
       "ipv4": [
         "35.215.108.111"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5798,10 +9688,10 @@
       "ipv4": [
         "35.215.85.252"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5844,10 +9734,10 @@
       "ipv4": [
         "35.215.83.0"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5890,10 +9780,10 @@
       "ipv4": [
         "35.215.66.109"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5936,10 +9826,10 @@
       "ipv4": [
         "35.215.126.35"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5982,10 +9872,10 @@
       "ipv4": [
         "35.215.113.144"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6028,10 +9918,10 @@
       "ipv4": [
         "35.215.115.120"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6074,10 +9964,10 @@
       "ipv4": [
         "34.4.29.239"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6120,10 +10010,10 @@
       "ipv4": [
         "34.126.224.98"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6166,10 +10056,10 @@
       "ipv4": [
         "34.54.86.23"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6212,10 +10102,10 @@
       "ipv4": [
         "34.54.86.23"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6259,10 +10149,10 @@
         "216.198.53.11",
         "216.198.54.11"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6309,10 +10199,10 @@
         "216.198.53.11",
         "216.198.54.11"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6362,10 +10252,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6420,10 +10310,10 @@
       "ipv4": [
         "34.0.95.146"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6466,10 +10356,10 @@
       "ipv4": [
         "34.0.88.7"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6492,6 +10382,190 @@
           "canonical_name": "tel-aviv12004.discord.gg",
           "ipv4": [
             "34.0.88.7"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "tel-aviv12013.discord.gg": {
+      "canonical_name": "tel-aviv12013.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "tel-aviv12013.discord.gg",
+      "ipv4": [
+        "34.0.90.161"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "tel-aviv12013.discord.gg",
+          "ipv4": [
+            "34.0.90.161"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "tel-aviv12013.discord.gg",
+          "ipv4": [
+            "34.0.90.161"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "tel-aviv12013.discord.gg",
+          "ipv4": [
+            "34.0.90.161"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "tel-aviv12016.discord.gg": {
+      "canonical_name": "tel-aviv12016.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "tel-aviv12016.discord.gg",
+      "ipv4": [
+        "34.0.66.119"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "tel-aviv12016.discord.gg",
+          "ipv4": [
+            "34.0.66.119"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "tel-aviv12016.discord.gg",
+          "ipv4": [
+            "34.0.66.119"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "tel-aviv12016.discord.gg",
+          "ipv4": [
+            "34.0.66.119"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "us-south12001.discord.gg": {
+      "canonical_name": "us-south12001.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "us-south12001.discord.gg",
+      "ipv4": [
+        "34.0.131.20"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "us-south12001.discord.gg",
+          "ipv4": [
+            "34.0.131.20"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "us-south12001.discord.gg",
+          "ipv4": [
+            "34.0.131.20"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "us-south12001.discord.gg",
+          "ipv4": [
+            "34.0.131.20"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "us-south12002.discord.gg": {
+      "canonical_name": "us-south12002.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "us-south12002.discord.gg",
+      "ipv4": [
+        "34.0.141.31"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "us-south12002.discord.gg",
+          "ipv4": [
+            "34.0.141.31"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "us-south12002.discord.gg",
+          "ipv4": [
+            "34.0.141.31"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "us-south12002.discord.gg",
+          "ipv4": [
+            "34.0.141.31"
           ],
           "status": "OK"
         }
@@ -6512,10 +10586,10 @@
       "ipv4": [
         "34.0.139.125"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6538,6 +10612,98 @@
           "canonical_name": "us-south12005.discord.gg",
           "ipv4": [
             "34.0.139.125"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "us-south12007.discord.gg": {
+      "canonical_name": "us-south12007.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "us-south12007.discord.gg",
+      "ipv4": [
+        "34.0.139.11"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "us-south12007.discord.gg",
+          "ipv4": [
+            "34.0.139.11"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "us-south12007.discord.gg",
+          "ipv4": [
+            "34.0.139.11"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "us-south12007.discord.gg",
+          "ipv4": [
+            "34.0.139.11"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "us-south12011.discord.gg": {
+      "canonical_name": "us-south12011.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "us-south12011.discord.gg",
+      "ipv4": [
+        "34.0.147.234"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "us-south12011.discord.gg",
+          "ipv4": [
+            "34.0.147.234"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "us-south12011.discord.gg",
+          "ipv4": [
+            "34.0.147.234"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "us-south12011.discord.gg",
+          "ipv4": [
+            "34.0.147.234"
           ],
           "status": "OK"
         }
@@ -6558,10 +10724,10 @@
       "ipv4": [
         "34.0.148.187"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6594,6 +10760,328 @@
       ],
       "status": "active"
     },
+    "us-south12019.discord.gg": {
+      "canonical_name": "us-south12019.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "us-south12019.discord.gg",
+      "ipv4": [
+        "34.0.157.225"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "us-south12019.discord.gg",
+          "ipv4": [
+            "34.0.157.225"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "us-south12019.discord.gg",
+          "ipv4": [
+            "34.0.157.225"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "us-south12019.discord.gg",
+          "ipv4": [
+            "34.0.157.225"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "us-south12021.discord.gg": {
+      "canonical_name": "us-south12021.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "us-south12021.discord.gg",
+      "ipv4": [
+        "34.0.156.174"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "us-south12021.discord.gg",
+          "ipv4": [
+            "34.0.156.174"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "us-south12021.discord.gg",
+          "ipv4": [
+            "34.0.156.174"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "us-south12021.discord.gg",
+          "ipv4": [
+            "34.0.156.174"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "us-south12024.discord.gg": {
+      "canonical_name": "us-south12024.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "us-south12024.discord.gg",
+      "ipv4": [
+        "34.0.148.151"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "us-south12024.discord.gg",
+          "ipv4": [
+            "34.0.148.151"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "us-south12024.discord.gg",
+          "ipv4": [
+            "34.0.148.151"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "us-south12024.discord.gg",
+          "ipv4": [
+            "34.0.148.151"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "us-south12027.discord.gg": {
+      "canonical_name": "us-south12027.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "us-south12027.discord.gg",
+      "ipv4": [
+        "34.0.147.183"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "us-south12027.discord.gg",
+          "ipv4": [
+            "34.0.147.183"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "us-south12027.discord.gg",
+          "ipv4": [
+            "34.0.147.183"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "us-south12027.discord.gg",
+          "ipv4": [
+            "34.0.147.183"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "us-south12040.discord.gg": {
+      "canonical_name": "us-south12040.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "us-south12040.discord.gg",
+      "ipv4": [
+        "34.0.130.183"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "us-south12040.discord.gg",
+          "ipv4": [
+            "34.0.130.183"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "us-south12040.discord.gg",
+          "ipv4": [
+            "34.0.130.183"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "us-south12040.discord.gg",
+          "ipv4": [
+            "34.0.130.183"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "us-south12045.discord.gg": {
+      "canonical_name": "us-south12045.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "us-south12045.discord.gg",
+      "ipv4": [
+        "34.0.129.122"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "us-south12045.discord.gg",
+          "ipv4": [
+            "34.0.129.122"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "us-south12045.discord.gg",
+          "ipv4": [
+            "34.0.129.122"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "us-south12045.discord.gg",
+          "ipv4": [
+            "34.0.129.122"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
+    "us-west20001.discord.gg": {
+      "canonical_name": "us-west20001.discord.gg",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:59:53Z",
+      "hostname": "us-west20001.discord.gg",
+      "ipv4": [
+        "35.215.120.129"
+      ],
+      "last_check": "2026-08-21T11:59:53Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:59:53Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "us-west20001.discord.gg",
+          "ipv4": [
+            "35.215.120.129"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "us-west20001.discord.gg",
+          "ipv4": [
+            "35.215.120.129"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "us-west20001.discord.gg",
+          "ipv4": [
+            "35.215.120.129"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "discord-core:discord.gg"
+      ],
+      "status": "active"
+    },
     "us-west20002.discord.gg": {
       "canonical_name": "us-west20002.discord.gg",
       "consecutive_negative_checks": 0,
@@ -6604,10 +11092,10 @@
       "ipv4": [
         "35.215.79.31"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6650,10 +11138,10 @@
       "ipv4": [
         "35.215.118.138"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6696,10 +11184,10 @@
       "ipv4": [
         "35.215.97.70"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6742,10 +11230,10 @@
       "ipv4": [
         "35.215.126.171"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6788,10 +11276,10 @@
       "ipv4": [
         "35.215.93.85"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6838,10 +11326,10 @@
         "162.159.137.232",
         "162.159.138.232"
       ],
-      "last_check": "2026-08-21T08:03:15Z",
+      "last_check": "2026-08-21T11:59:53Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T08:03:15Z",
+      "last_success": "2026-08-21T11:59:53Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6887,6 +11375,6 @@
       "status": "active"
     }
   },
-  "updated_at": "2026-08-21T08:03:15Z",
+  "updated_at": "2026-08-21T11:59:53Z",
   "version": 2
 }
