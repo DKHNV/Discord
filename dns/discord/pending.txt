@@ -1,7 +1,4 @@
-cdn2-media.discordapp.net
-discordapp.net
 santiago11039.discord.gg
-santiago11040.discord.gg
 santiago11041.discord.gg
 santiago11042.discord.gg
 santiago11043.discord.gg
@@ -12,5 +9,4 @@ santiago11047.discord.gg
 santiago11048.discord.gg
 santiago11049.discord.gg
 santiago11050.discord.gg
-santiago11051.discord.gg
 us-west50000.discord.gg
