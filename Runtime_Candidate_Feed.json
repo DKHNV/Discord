@@ -1,0 +1,87 @@
+{
+  "candidates": [
+    {
+      "active_cycles": 1,
+      "candidate_id": "7567bfcc4a165ff278aac4b721f5aa2182ff87663d1b6f062b493c9298550ffd",
+      "current_presence": true,
+      "current_routing_status": "active",
+      "first_observed": "2026-08-29T15:29:51Z",
+      "hostname": "cdn.discordapp.com",
+      "id_version": 1,
+      "last_external_at": "2026-08-29T15:22:27Z",
+      "last_observed": "2026-08-29T15:29:51Z",
+      "observation_count": 1,
+      "presence_cycles": 1,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-08-29"
+      ],
+      "state": "observed",
+      "suffix": "discordapp.com"
+    },
+    {
+      "active_cycles": 1,
+      "candidate_id": "5df97beb7f8ea7f47cc80b538d19d354140efea3e3267b211141ddfa7f900d25",
+      "current_presence": true,
+      "current_routing_status": "active",
+      "first_observed": "2026-08-29T15:29:51Z",
+      "hostname": "gateway.discord.gg",
+      "id_version": 1,
+      "last_external_at": "2026-08-29T15:22:23Z",
+      "last_observed": "2026-08-29T15:29:51Z",
+      "observation_count": 1,
+      "presence_cycles": 1,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-08-29"
+      ],
+      "state": "observed",
+      "suffix": "discord.gg"
+    },
+    {
+      "active_cycles": 1,
+      "candidate_id": "f291dc31701590c8978975195c0a2bb023a23a20901aad627660376aa6c73ddb",
+      "current_presence": true,
+      "current_routing_status": "active",
+      "first_observed": "2026-08-29T15:29:51Z",
+      "hostname": "media.discordapp.net",
+      "id_version": 1,
+      "last_external_at": "2026-08-29T15:22:30Z",
+      "last_observed": "2026-08-29T15:29:51Z",
+      "observation_count": 1,
+      "presence_cycles": 1,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-08-29"
+      ],
+      "state": "observed",
+      "suffix": "discordapp.net"
+    },
+    {
+      "active_cycles": 1,
+      "candidate_id": "412f7eda61b63431b4355da08735ef46e70377bd4fc13351d982fa96d7f58832",
+      "current_presence": true,
+      "current_routing_status": "active",
+      "first_observed": "2026-08-29T15:29:51Z",
+      "hostname": "updates.discord.com",
+      "id_version": 1,
+      "last_external_at": "2026-08-29T15:29:47Z",
+      "last_observed": "2026-08-29T15:29:51Z",
+      "observation_count": 1,
+      "presence_cycles": 1,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-08-29"
+      ],
+      "state": "observed",
+      "suffix": "discord.com"
+    }
+  ],
+  "content_hash": "3d2aadb65f0f1f4c951e1f64717f23f515fe20d6cc10fefc60783c1646fb0311",
+  "generated_at": "2026-08-29T15:29:51Z",
+  "hash_algorithm": "sha256",
+  "history_scope": "since_analytics_start",
+  "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
+  "schema_version": 1,
+  "service": "discord"
+}
