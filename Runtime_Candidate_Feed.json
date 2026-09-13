@@ -11,7 +11,7 @@
       "last_external_at": "2026-09-12T21:41:05Z",
       "last_observed": "2026-09-12T21:48:37Z",
       "observation_count": 620,
-      "presence_cycles": 4124,
+      "presence_cycles": 4196,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -106,7 +106,7 @@
       "last_external_at": "2026-09-12T20:15:28Z",
       "last_observed": "2026-09-12T20:17:48Z",
       "observation_count": 52,
-      "presence_cycles": 3450,
+      "presence_cycles": 3522,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-31",
@@ -133,7 +133,7 @@
       "last_external_at": "2026-09-12T19:07:21Z",
       "last_observed": "2026-09-12T19:12:13Z",
       "observation_count": 107,
-      "presence_cycles": 3620,
+      "presence_cycles": 3692,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-30",
@@ -161,7 +161,7 @@
       "last_external_at": "2026-09-11T18:21:09Z",
       "last_observed": "2026-09-11T18:21:25Z",
       "observation_count": 130,
-      "presence_cycles": 4104,
+      "presence_cycles": 4176,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-29",
@@ -192,7 +192,7 @@
       "last_external_at": "2026-09-12T21:41:05Z",
       "last_observed": "2026-09-12T21:48:37Z",
       "observation_count": 274,
-      "presence_cycles": 4125,
+      "presence_cycles": 4197,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-29",
@@ -225,7 +225,7 @@
       "last_external_at": "2026-09-12T21:41:44Z",
       "last_observed": "2026-09-12T21:43:34Z",
       "observation_count": 154,
-      "presence_cycles": 4122,
+      "presence_cycles": 4194,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -257,7 +257,7 @@
       "last_external_at": "2026-09-12T21:41:22Z",
       "last_observed": "2026-09-12T21:43:34Z",
       "observation_count": 197,
-      "presence_cycles": 4099,
+      "presence_cycles": 4171,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -290,7 +290,7 @@
       "last_external_at": "2026-09-11T06:01:32Z",
       "last_observed": "2026-09-11T06:25:23Z",
       "observation_count": 4,
-      "presence_cycles": 1106,
+      "presence_cycles": 1178,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-09-03",
@@ -310,7 +310,7 @@
       "last_external_at": "2026-09-12T21:41:09Z",
       "last_observed": "2026-09-12T21:43:34Z",
       "observation_count": 84,
-      "presence_cycles": 4003,
+      "presence_cycles": 4075,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -343,7 +343,7 @@
       "last_external_at": "2026-09-12T21:41:05Z",
       "last_observed": "2026-09-12T21:48:37Z",
       "observation_count": 313,
-      "presence_cycles": 4115,
+      "presence_cycles": 4187,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -366,8 +366,8 @@
       "suffix": "discord.com"
     }
   ],
-  "content_hash": "583fed7127d8636298df7ec5a2d55732a0b51696c2d97ca7b95c21aaede7e4c4",
-  "generated_at": "2026-09-13T02:55:52Z",
+  "content_hash": "a86b7b12bb41b5be2d53129aba50fdaf72e4015b6355d3135cda87b95d7ea853",
+  "generated_at": "2026-09-13T08:59:00Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
