@@ -7,6 +7,7 @@ discordapp.com
 dl.discordapp.net
 dl2.discordapp.net
 docs.discordapp.com
+email.recruiting.discord.com
 enam-rtc-sfu-finder.discord.com
 events.discord.com
 gateway.discord.gg
