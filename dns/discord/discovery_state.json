@@ -4,25 +4,25 @@
       "discord.com": {
         "after": 17178638418,
         "caught_up": true,
-        "last_poll": "2026-09-17T10:24:49Z"
+        "last_poll": "2026-09-17T15:39:00Z"
       },
       "discord.gg": {
-        "after": 17229640965,
+        "after": 17235363264,
         "caught_up": false,
-        "last_poll": "2026-09-17T10:24:49Z"
+        "last_poll": "2026-09-17T15:39:00Z"
       },
       "discordapp.com": {
         "after": 17228620682,
-        "caught_up": false,
-        "last_poll": "2026-09-17T10:24:49Z"
+        "caught_up": true,
+        "last_poll": "2026-09-17T15:39:00Z"
       },
       "discordapp.net": {
         "after": 17072160829,
         "caught_up": true,
-        "last_poll": "2026-09-17T10:24:49Z"
+        "last_poll": "2026-09-17T15:39:00Z"
       }
     }
   },
-  "updated_at": "2026-09-17T10:24:49Z",
+  "updated_at": "2026-09-17T15:39:00Z",
   "version": 2
 }
