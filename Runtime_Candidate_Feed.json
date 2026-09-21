@@ -1,17 +1,17 @@
 {
   "candidates": [
     {
-      "active_cycles": 386,
+      "active_cycles": 388,
       "candidate_id": "7567bfcc4a165ff278aac4b721f5aa2182ff87663d1b6f062b493c9298550ffd",
       "current_presence": true,
       "current_routing_status": "expired",
       "first_observed": "2026-08-29T15:29:51Z",
       "hostname": "cdn.discordapp.com",
       "id_version": 1,
-      "last_external_at": "2026-09-20T20:39:27Z",
-      "last_observed": "2026-09-20T20:44:02Z",
-      "observation_count": 919,
-      "presence_cycles": 6239,
+      "last_external_at": "2026-09-21T00:27:43Z",
+      "last_observed": "2026-09-21T00:30:07Z",
+      "observation_count": 923,
+      "presence_cycles": 6310,
       "reactivation_count": 3,
       "seen_dates": [
         "2026-08-29",
@@ -36,7 +36,8 @@
         "2026-09-17",
         "2026-09-18",
         "2026-09-19",
-        "2026-09-20"
+        "2026-09-20",
+        "2026-09-21"
       ],
       "state": "observed",
       "suffix": "discordapp.com"
@@ -164,7 +165,7 @@
       "last_external_at": "2026-09-19T11:54:38Z",
       "last_observed": "2026-09-19T11:59:26Z",
       "observation_count": 123,
-      "presence_cycles": 4570,
+      "presence_cycles": 4641,
       "reactivation_count": 2,
       "seen_dates": [
         "2026-08-30",
@@ -185,17 +186,17 @@
       "suffix": "discord.gg"
     },
     {
-      "active_cycles": 78,
+      "active_cycles": 80,
       "candidate_id": "32f791733f83cd43311c80e1c0db25189fe1a227e96da4244b7a56467de533bf",
       "current_presence": true,
       "current_routing_status": "expired",
       "first_observed": "2026-08-29T17:12:35Z",
       "hostname": "gateway-us-east1-d.discord.gg",
       "id_version": 1,
-      "last_external_at": "2026-09-20T18:01:33Z",
-      "last_observed": "2026-09-20T18:03:03Z",
-      "observation_count": 152,
-      "presence_cycles": 5777,
+      "last_external_at": "2026-09-20T23:11:46Z",
+      "last_observed": "2026-09-20T23:19:54Z",
+      "observation_count": 156,
+      "presence_cycles": 5848,
       "reactivation_count": 3,
       "seen_dates": [
         "2026-08-29",
@@ -220,17 +221,17 @@
       "suffix": "discord.gg"
     },
     {
-      "active_cycles": 180,
+      "active_cycles": 181,
       "candidate_id": "5df97beb7f8ea7f47cc80b538d19d354140efea3e3267b211141ddfa7f900d25",
       "current_presence": true,
       "current_routing_status": "expired",
       "first_observed": "2026-08-29T15:29:51Z",
       "hostname": "gateway.discord.gg",
       "id_version": 1,
-      "last_external_at": "2026-09-20T17:10:25Z",
-      "last_observed": "2026-09-20T17:12:43Z",
-      "observation_count": 379,
-      "presence_cycles": 6240,
+      "last_external_at": "2026-09-21T00:27:43Z",
+      "last_observed": "2026-09-21T00:30:07Z",
+      "observation_count": 380,
+      "presence_cycles": 6311,
       "reactivation_count": 2,
       "seen_dates": [
         "2026-08-29",
@@ -255,7 +256,8 @@
         "2026-09-17",
         "2026-09-18",
         "2026-09-19",
-        "2026-09-20"
+        "2026-09-20",
+        "2026-09-21"
       ],
       "state": "observed",
       "suffix": "discord.gg"
@@ -271,7 +273,7 @@
       "last_external_at": "2026-09-19T19:45:44Z",
       "last_observed": "2026-09-19T19:47:51Z",
       "observation_count": 215,
-      "presence_cycles": 6139,
+      "presence_cycles": 6210,
       "reactivation_count": 3,
       "seen_dates": [
         "2026-08-29",
@@ -310,7 +312,7 @@
       "last_external_at": "2026-09-20T14:38:27Z",
       "last_observed": "2026-09-20T15:47:12Z",
       "observation_count": 277,
-      "presence_cycles": 6087,
+      "presence_cycles": 6158,
       "reactivation_count": 3,
       "seen_dates": [
         "2026-08-29",
@@ -381,17 +383,17 @@
       "suffix": "discordapp.net"
     },
     {
-      "active_cycles": 48,
+      "active_cycles": 49,
       "candidate_id": "4710bea3bc671f95f2e01f0d3c50d88d58a5c8b45c4db1c878c6cac7d58c46e7",
       "current_presence": true,
       "current_routing_status": "expired",
       "first_observed": "2026-08-29T21:11:31Z",
       "hostname": "status.discord.com",
       "id_version": 1,
-      "last_external_at": "2026-09-20T06:48:53Z",
-      "last_observed": "2026-09-20T07:28:50Z",
-      "observation_count": 102,
-      "presence_cycles": 6118,
+      "last_external_at": "2026-09-21T00:28:08Z",
+      "last_observed": "2026-09-21T00:30:07Z",
+      "observation_count": 103,
+      "presence_cycles": 6189,
       "reactivation_count": 3,
       "seen_dates": [
         "2026-08-29",
@@ -415,23 +417,24 @@
         "2026-09-16",
         "2026-09-18",
         "2026-09-19",
-        "2026-09-20"
+        "2026-09-20",
+        "2026-09-21"
       ],
       "state": "observed",
       "suffix": "discord.com"
     },
     {
-      "active_cycles": 189,
+      "active_cycles": 191,
       "candidate_id": "412f7eda61b63431b4355da08735ef46e70377bd4fc13351d982fa96d7f58832",
       "current_presence": true,
-      "current_routing_status": "grace",
+      "current_routing_status": "expired",
       "first_observed": "2026-08-29T15:29:51Z",
       "hostname": "updates.discord.com",
       "id_version": 1,
-      "last_external_at": "2026-09-20T20:48:57Z",
-      "last_observed": "2026-09-20T20:49:02Z",
-      "observation_count": 466,
-      "presence_cycles": 6230,
+      "last_external_at": "2026-09-21T00:27:43Z",
+      "last_observed": "2026-09-21T00:30:07Z",
+      "observation_count": 472,
+      "presence_cycles": 6301,
       "reactivation_count": 3,
       "seen_dates": [
         "2026-08-29",
@@ -456,14 +459,15 @@
         "2026-09-17",
         "2026-09-18",
         "2026-09-19",
-        "2026-09-20"
+        "2026-09-20",
+        "2026-09-21"
       ],
       "state": "observed",
       "suffix": "discord.com"
     }
   ],
-  "content_hash": "0c967f1361d9a8a2305e8de5d0a085ac8dfe288d5f75ed6a320aefa76bea7e9e",
-  "generated_at": "2026-09-20T20:59:05Z",
+  "content_hash": "6b24466d3aa1429057bd6e94e6d8f934089cbcc47c02e16e98e84ee4abdc7e8b",
+  "generated_at": "2026-09-21T02:56:14Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
