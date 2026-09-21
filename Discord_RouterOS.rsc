@@ -33,6 +33,8 @@ add list=discord address=34.1.211.0/24 comment=discord
 add list=discord address=34.4.28.0/23 comment=discord
 add list=discord address=34.54.86.0/24 comment=discord
 add list=discord address=34.54.137.0/24 comment=discord
+add list=discord address=34.102.239.0/24 comment=discord
+add list=discord address=34.110.180.0/24 comment=discord
 add list=discord address=34.126.224.0/24 comment=discord
 add list=discord address=34.126.226.0/24 comment=discord
 add list=discord address=35.190.41.0/24 comment=discord
