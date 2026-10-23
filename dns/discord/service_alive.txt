@@ -17,6 +17,7 @@ prod-wf1.discord.com
 prod-wf2.discord.com
 prod-wf3.discord.com
 rtc-sfu-finder.discord.com
+seas-rtc-sfu-finder.discord.com
 snowsgiving-tale-2022-da.discord.com
 snowsgiving-tale-2022-de.discord.com
 snowsgiving-tale-2022-en.discord.com
