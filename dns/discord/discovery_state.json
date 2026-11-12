@@ -2,27 +2,27 @@
   "sources": {
     "certspotter": {
       "discord.com": {
-        "after": 18316389197,
+        "after": 18326912831,
         "caught_up": false,
-        "last_poll": "2026-11-11T19:51:32Z"
+        "last_poll": "2026-11-12T07:43:06Z"
       },
       "discord.gg": {
-        "after": 18316897877,
+        "after": 18326901417,
         "caught_up": false,
-        "last_poll": "2026-11-11T19:51:32Z"
+        "last_poll": "2026-11-12T07:43:06Z"
       },
       "discordapp.com": {
         "after": 18127614408,
         "caught_up": true,
-        "last_poll": "2026-11-11T19:51:32Z"
+        "last_poll": "2026-11-12T07:43:06Z"
       },
       "discordapp.net": {
         "after": 18222911836,
         "caught_up": true,
-        "last_poll": "2026-11-11T19:51:32Z"
+        "last_poll": "2026-11-12T07:43:06Z"
       }
     }
   },
-  "updated_at": "2026-11-11T19:51:32Z",
+  "updated_at": "2026-11-12T07:43:06Z",
   "version": 2
 }
