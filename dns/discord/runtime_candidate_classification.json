@@ -1,7 +1,7 @@
 {
   "candidates": {
     "14f5f64175d93dc2c1ed8bd153b23efcd68ecfbdaf08b26cde86bd7a179e7193": {
-      "classified_at": "2026-11-17T21:19:29Z",
+      "classified_at": "2026-11-18T07:55:39Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 6,
@@ -23,7 +23,7 @@
       "version": 1
     },
     "19a6fc651ff8ff3628a5e6baf90c730a1d03719290e06a2048affcd38ba38766": {
-      "classified_at": "2026-11-17T21:19:29Z",
+      "classified_at": "2026-11-18T07:55:39Z",
       "decision": "candidate",
       "eligibility": {
         "criteria": {
@@ -70,7 +70,7 @@
         "evidence": {
           "additional_observation_count": 41,
           "additional_seen_days": 2,
-          "candidate_age_hours": 1499.042342,
+          "candidate_age_hours": 1509.645177,
           "feed_present": true,
           "observation_count": 53,
           "seen_days": 4
@@ -86,7 +86,7 @@
       "version": 1
     },
     "29a2b2839145cb38ae28776792652493fd1c5dcc0606a90b16e5fd7abe3e2db3": {
-      "classified_at": "2026-11-17T21:19:29Z",
+      "classified_at": "2026-11-18T07:55:39Z",
       "decision": "candidate",
       "eligibility": {
         "criteria": {
@@ -133,7 +133,7 @@
         "evidence": {
           "additional_observation_count": 2,
           "additional_seen_days": 1,
-          "candidate_age_hours": 1829.557065,
+          "candidate_age_hours": 1840.159899,
           "feed_present": true,
           "observation_count": 22,
           "seen_days": 4
@@ -149,7 +149,7 @@
       "version": 1
     },
     "32f791733f83cd43311c80e1c0db25189fe1a227e96da4244b7a56467de533bf": {
-      "classified_at": "2026-11-17T21:19:29Z",
+      "classified_at": "2026-11-18T07:55:39Z",
       "decision": "candidate",
       "eligibility": {
         "criteria": {
@@ -196,7 +196,7 @@
         "evidence": {
           "additional_observation_count": 338,
           "additional_seen_days": 38,
-          "candidate_age_hours": 1829.557065,
+          "candidate_age_hours": 1840.159899,
           "feed_present": true,
           "observation_count": 378,
           "seen_days": 43
@@ -212,7 +212,7 @@
       "version": 1
     },
     "412f7eda61b63431b4355da08735ef46e70377bd4fc13351d982fa96d7f58832": {
-      "classified_at": "2026-11-17T21:19:29Z",
+      "classified_at": "2026-11-18T07:55:39Z",
       "decision": "candidate",
       "eligibility": {
         "criteria": {
@@ -223,7 +223,7 @@
         "decision": "candidate",
         "evidence": {
           "feed_present": true,
-          "observation_count": 1703,
+          "observation_count": 1712,
           "seen_days": 81
         },
         "mode": "shadow",
@@ -231,16 +231,16 @@
         "version": 1
       },
       "evidence": {
-        "active_cycles": 712,
+        "active_cycles": 716,
         "current_presence": true,
         "current_routing_status": "expired",
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "observation_count": 1703,
+        "observation_count": 1712,
         "policy_excluded": false,
         "policy_rule": null,
-        "presence_cycles": 22345,
+        "presence_cycles": 22488,
         "reactivation_count": 11,
         "seen_days": 81
       },
@@ -257,11 +257,11 @@
           "min_candidate_age_hours": 24.0
         },
         "evidence": {
-          "additional_observation_count": 1608,
+          "additional_observation_count": 1617,
           "additional_seen_days": 76,
-          "candidate_age_hours": 1829.557065,
+          "candidate_age_hours": 1840.159899,
           "feed_present": true,
-          "observation_count": 1703,
+          "observation_count": 1712,
           "seen_days": 81
         },
         "mode": "shadow",
@@ -275,7 +275,7 @@
       "version": 1
     },
     "4710bea3bc671f95f2e01f0d3c50d88d58a5c8b45c4db1c878c6cac7d58c46e7": {
-      "classified_at": "2026-11-17T21:19:29Z",
+      "classified_at": "2026-11-18T07:55:39Z",
       "decision": "candidate",
       "eligibility": {
         "criteria": {
@@ -286,7 +286,7 @@
         "decision": "candidate",
         "evidence": {
           "feed_present": true,
-          "observation_count": 271,
+          "observation_count": 273,
           "seen_days": 72
         },
         "mode": "shadow",
@@ -300,10 +300,10 @@
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "observation_count": 271,
+        "observation_count": 273,
         "policy_excluded": false,
         "policy_rule": null,
-        "presence_cycles": 22113,
+        "presence_cycles": 22256,
         "reactivation_count": 10,
         "seen_days": 72
       },
@@ -320,11 +320,11 @@
           "min_candidate_age_hours": 24.0
         },
         "evidence": {
-          "additional_observation_count": 233,
+          "additional_observation_count": 235,
           "additional_seen_days": 67,
-          "candidate_age_hours": 1829.557065,
+          "candidate_age_hours": 1840.159899,
           "feed_present": true,
-          "observation_count": 271,
+          "observation_count": 273,
           "seen_days": 72
         },
         "mode": "shadow",
@@ -338,7 +338,7 @@
       "version": 1
     },
     "5715c0e238b3ddd4c3e69994d9092c9b645b382d60f32ca75081c9e8128d856c": {
-      "classified_at": "2026-11-17T21:19:29Z",
+      "classified_at": "2026-11-18T07:55:39Z",
       "decision": "candidate",
       "eligibility": {
         "criteria": {
@@ -385,7 +385,7 @@
         "evidence": {
           "additional_observation_count": 17,
           "additional_seen_days": 11,
-          "candidate_age_hours": 1619.328176,
+          "candidate_age_hours": 1629.93101,
           "feed_present": true,
           "observation_count": 21,
           "seen_days": 13
@@ -401,19 +401,19 @@
       "version": 1
     },
     "5df97beb7f8ea7f47cc80b538d19d354140efea3e3267b211141ddfa7f900d25": {
-      "classified_at": "2026-11-17T21:19:29Z",
+      "classified_at": "2026-11-18T07:55:39Z",
       "decision": "observe_only",
       "evidence": {
-        "active_cycles": 440,
+        "active_cycles": 441,
         "current_presence": true,
         "current_routing_status": "expired",
         "exact_dns_present": true,
         "exact_dns_status": "active",
         "feed_present": true,
-        "observation_count": 877,
+        "observation_count": 879,
         "policy_excluded": false,
         "policy_rule": null,
-        "presence_cycles": 22370,
+        "presence_cycles": 22513,
         "reactivation_count": 6,
         "seen_days": 77
       },
@@ -423,19 +423,19 @@
       "version": 1
     },
     "7567bfcc4a165ff278aac4b721f5aa2182ff87663d1b6f062b493c9298550ffd": {
-      "classified_at": "2026-11-17T21:19:29Z",
+      "classified_at": "2026-11-18T07:55:39Z",
       "decision": "observe_only",
       "evidence": {
-        "active_cycles": 1568,
+        "active_cycles": 1578,
         "current_presence": true,
-        "current_routing_status": "grace",
+        "current_routing_status": "expired",
         "exact_dns_present": true,
         "exact_dns_status": "active",
         "feed_present": true,
-        "observation_count": 3587,
+        "observation_count": 3607,
         "policy_excluded": false,
         "policy_rule": null,
-        "presence_cycles": 22367,
+        "presence_cycles": 22510,
         "reactivation_count": 9,
         "seen_days": 81
       },
@@ -445,7 +445,7 @@
       "version": 1
     },
     "7c7049c0327f440e4b4dfaa96316b151d5b330ff677b72fec02e78427be9768a": {
-      "classified_at": "2026-11-17T21:19:29Z",
+      "classified_at": "2026-11-18T07:55:39Z",
       "decision": "candidate",
       "eligibility": {
         "criteria": {
@@ -492,7 +492,7 @@
         "evidence": {
           "additional_observation_count": 2,
           "additional_seen_days": 1,
-          "candidate_age_hours": 1829.557065,
+          "candidate_age_hours": 1840.159899,
           "feed_present": true,
           "observation_count": 16,
           "seen_days": 5
@@ -508,7 +508,7 @@
       "version": 1
     },
     "9efc179251dcdb2cb630ffc4484cb2c4cdcd72b913d61cb13376503506611d2d": {
-      "classified_at": "2026-11-17T21:19:29Z",
+      "classified_at": "2026-11-18T07:55:39Z",
       "decision": "candidate",
       "eligibility": {
         "criteria": {
@@ -555,7 +555,7 @@
         "evidence": {
           "additional_observation_count": 2,
           "additional_seen_days": 1,
-          "candidate_age_hours": 715.660398,
+          "candidate_age_hours": 726.263232,
           "feed_present": true,
           "observation_count": 6,
           "seen_days": 3
@@ -571,7 +571,7 @@
       "version": 1
     },
     "9fa8e1dd63bf28b36f4792be1bc538a5cf0ba54a2933ad535248e6e90e88deb2": {
-      "classified_at": "2026-11-17T21:19:29Z",
+      "classified_at": "2026-11-18T07:55:39Z",
       "decision": "observed",
       "eligibility": {
         "criteria": {
@@ -609,7 +609,7 @@
       "version": 1
     },
     "c32e9a66bad53e3237d0845974698c3dc793f07397dabe7391ad23bd1b227257": {
-      "classified_at": "2026-11-17T21:19:29Z",
+      "classified_at": "2026-11-18T07:55:39Z",
       "decision": "observed",
       "eligibility": {
         "criteria": {
@@ -647,7 +647,7 @@
       "version": 1
     },
     "e1658d135d1c8010d1bfb07718f929c3fb56fd36ad1996c91cb83f69e58ea212": {
-      "classified_at": "2026-11-17T21:19:29Z",
+      "classified_at": "2026-11-18T07:55:39Z",
       "decision": "candidate",
       "eligibility": {
         "criteria": {
@@ -658,7 +658,7 @@
         "decision": "candidate",
         "evidence": {
           "feed_present": true,
-          "observation_count": 400,
+          "observation_count": 401,
           "seen_days": 44
         },
         "mode": "shadow",
@@ -666,16 +666,16 @@
         "version": 1
       },
       "evidence": {
-        "active_cycles": 218,
+        "active_cycles": 219,
         "current_presence": true,
         "current_routing_status": "grace",
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "observation_count": 400,
+        "observation_count": 401,
         "policy_excluded": false,
         "policy_rule": null,
-        "presence_cycles": 15223,
+        "presence_cycles": 15366,
         "reactivation_count": 19,
         "seen_days": 44
       },
@@ -692,11 +692,11 @@
           "min_candidate_age_hours": 24.0
         },
         "evidence": {
-          "additional_observation_count": 388,
+          "additional_observation_count": 389,
           "additional_seen_days": 41,
-          "candidate_age_hours": 1829.557065,
+          "candidate_age_hours": 1840.159899,
           "feed_present": true,
-          "observation_count": 400,
+          "observation_count": 401,
           "seen_days": 44
         },
         "mode": "shadow",
@@ -710,7 +710,7 @@
       "version": 1
     },
     "e67940e5005bc3d1aeaee4183f3a3c8bee73d85a5f97bc82b58fe0c20b77972f": {
-      "classified_at": "2026-11-17T21:19:29Z",
+      "classified_at": "2026-11-18T07:55:39Z",
       "decision": "candidate",
       "eligibility": {
         "criteria": {
@@ -731,14 +731,14 @@
       "evidence": {
         "active_cycles": 262,
         "current_presence": true,
-        "current_routing_status": "grace",
+        "current_routing_status": "expired",
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
         "observation_count": 454,
         "policy_excluded": false,
         "policy_rule": null,
-        "presence_cycles": 20188,
+        "presence_cycles": 20331,
         "reactivation_count": 22,
         "seen_days": 69
       },
@@ -757,7 +757,7 @@
         "evidence": {
           "additional_observation_count": 403,
           "additional_seen_days": 64,
-          "candidate_age_hours": 1829.557065,
+          "candidate_age_hours": 1840.159899,
           "feed_present": true,
           "observation_count": 454,
           "seen_days": 69
@@ -773,7 +773,7 @@
       "version": 1
     },
     "f1a2f5d85b9f191016a880b98058039e16454314d72d67b90060d088b6d7af41": {
-      "classified_at": "2026-11-17T21:19:29Z",
+      "classified_at": "2026-11-18T07:55:39Z",
       "decision": "candidate",
       "eligibility": {
         "criteria": {
@@ -784,26 +784,26 @@
         "decision": "candidate",
         "evidence": {
           "feed_present": true,
-          "observation_count": 273,
-          "seen_days": 36
+          "observation_count": 276,
+          "seen_days": 37
         },
         "mode": "shadow",
         "reason": "candidate_retained",
         "version": 1
       },
       "evidence": {
-        "active_cycles": 187,
+        "active_cycles": 194,
         "current_presence": true,
         "current_routing_status": "expired",
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "observation_count": 273,
+        "observation_count": 276,
         "policy_excluded": false,
         "policy_rule": null,
-        "presence_cycles": 12770,
-        "reactivation_count": 17,
-        "seen_days": 36
+        "presence_cycles": 12879,
+        "reactivation_count": 18,
+        "seen_days": 37
       },
       "maturity": {
         "baseline": {
@@ -818,12 +818,12 @@
           "min_candidate_age_hours": 24.0
         },
         "evidence": {
-          "additional_observation_count": 264,
-          "additional_seen_days": 34,
-          "candidate_age_hours": 1829.557065,
+          "additional_observation_count": 267,
+          "additional_seen_days": 35,
+          "candidate_age_hours": 1840.159899,
           "feed_present": true,
-          "observation_count": 273,
-          "seen_days": 36
+          "observation_count": 276,
+          "seen_days": 37
         },
         "mode": "shadow",
         "reason": "candidate_maturity_ready_retained",
@@ -836,19 +836,19 @@
       "version": 1
     },
     "f291dc31701590c8978975195c0a2bb023a23a20901aad627660376aa6c73ddb": {
-      "classified_at": "2026-11-17T21:19:29Z",
+      "classified_at": "2026-11-18T07:55:39Z",
       "decision": "observe_only",
       "evidence": {
-        "active_cycles": 364,
+        "active_cycles": 365,
         "current_presence": true,
-        "current_routing_status": "grace",
+        "current_routing_status": "expired",
         "exact_dns_present": true,
         "exact_dns_status": "active",
         "feed_present": true,
-        "observation_count": 763,
+        "observation_count": 770,
         "policy_excluded": false,
         "policy_rule": null,
-        "presence_cycles": 21068,
+        "presence_cycles": 21211,
         "reactivation_count": 19,
         "seen_days": 81
       },
@@ -858,7 +858,7 @@
       "version": 1
     }
   },
-  "classified_at": "2026-11-17T21:19:29Z",
+  "classified_at": "2026-11-18T07:55:39Z",
   "counts": {
     "candidate": 11,
     "observe_only": 4,
@@ -867,8 +867,8 @@
   },
   "mode": "shadow",
   "service": "discord",
-  "source_content_hash": "dc9e2824f3e43313fb6b9e7abeed027dfd1fab07db2dbc5c2a98a9e648d89b63",
-  "source_generated_at": "2026-11-17T15:55:29Z",
-  "source_last_intake_at": "2026-11-17T21:19:29Z",
+  "source_content_hash": "072fcfee844a550608d70402573c58914ccafb199791b7f08b6759be42f57fb7",
+  "source_generated_at": "2026-11-18T03:58:02Z",
+  "source_last_intake_at": "2026-11-18T07:55:39Z",
   "version": 1
 }
