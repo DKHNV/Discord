@@ -8,6 +8,7 @@ discordapp.com
 dl.discordapp.net
 dl2.discordapp.net
 docs.discordapp.com
+eeu-rtc-sfu-finder.discord.com
 email.recruiting.discord.com
 enam-rtc-sfu-finder.discord.com
 events.discord.com
@@ -19,6 +20,7 @@ prod-wf2.discord.com
 prod-wf3.discord.com
 rtc-sfu-finder.discord.com
 seas-rtc-sfu-finder.discord.com
+snam-rtc-sfu-finder.discord.com
 snowsgiving-tale-2022-da.discord.com
 snowsgiving-tale-2022-de.discord.com
 snowsgiving-tale-2022-en.discord.com
@@ -43,4 +45,5 @@ support-ads.discord.com
 support-apps.discord.com
 support-dev.discord.com
 support.discord.com
+weu-rtc-sfu-finder.discord.com
 www.discord.com
