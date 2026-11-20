@@ -1,6 +1,7 @@
 /ip firewall address-list
 
 add list=discord address=8.233.55.0/24 comment=discord
+add list=discord address=8.233.114.0/24 comment=discord
 add list=discord address=34.0.48.0/22 comment=discord
 add list=discord address=34.0.52.0/22 comment=discord
 add list=discord address=34.0.56.0/23 comment=discord
@@ -32,10 +33,11 @@ add list=discord address=34.0.158.0/24 comment=discord
 add list=discord address=34.4.28.0/23 comment=discord
 add list=discord address=34.54.86.0/24 comment=discord
 add list=discord address=34.54.137.0/24 comment=discord
-add list=discord address=34.102.239.0/24 comment=discord
 add list=discord address=34.110.180.0/24 comment=discord
 add list=discord address=34.126.224.0/24 comment=discord
 add list=discord address=34.126.226.0/24 comment=discord
+add list=discord address=34.128.137.0/24 comment=discord
+add list=discord address=35.190.37.0/24 comment=discord
 add list=discord address=35.190.41.0/24 comment=discord
 add list=discord address=35.213.0.0/22 comment=discord
 add list=discord address=35.213.5.0/24 comment=discord
@@ -170,6 +172,7 @@ add list=discord address=35.217.54.0/24 comment=discord
 add list=discord address=35.217.56.0/22 comment=discord
 add list=discord address=35.217.60.0/22 comment=discord
 add list=discord address=100.24.90.0/24 comment=discord
+add list=discord address=104.18.35.0/24 comment=discord
 add list=discord address=104.18.48.0/24 comment=discord
 add list=discord address=104.18.52.0/24 comment=discord
 add list=discord address=136.68.154.0/24 comment=discord
@@ -183,5 +186,6 @@ add list=discord address=162.159.133.0/24 comment=discord
 add list=discord address=162.159.134.0/23 comment=discord
 add list=discord address=162.159.136.0/23 comment=discord
 add list=discord address=162.159.138.0/24 comment=discord
+add list=discord address=172.64.152.0/24 comment=discord
 add list=discord address=216.198.53.0/24 comment=discord
 add list=discord address=216.198.54.0/24 comment=discord
