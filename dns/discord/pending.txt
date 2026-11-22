@@ -1,2 +1,0 @@
-checkout-stg.discord.com
-checkout.discord.com
