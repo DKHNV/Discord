@@ -1,6 +1,7 @@
 ads-billing.discord.com
 androiddiag.discord.com
 cdn.discordapp.com
+checkout-stg.discord.com
 creator-support.discord.com
 discord.com
 discord.gg
