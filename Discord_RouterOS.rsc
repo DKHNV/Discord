@@ -173,6 +173,7 @@ add list=discord address=35.217.54.0/24 comment=discord
 add list=discord address=35.217.56.0/22 comment=discord
 add list=discord address=35.217.60.0/22 comment=discord
 add list=discord address=100.24.90.0/24 comment=discord
+add list=discord address=104.18.30.0/23 comment=discord
 add list=discord address=104.18.35.0/24 comment=discord
 add list=discord address=104.18.48.0/24 comment=discord
 add list=discord address=104.18.52.0/24 comment=discord
