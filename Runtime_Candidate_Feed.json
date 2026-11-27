@@ -11,7 +11,7 @@
       "last_external_at": "2026-11-26T18:45:43Z",
       "last_observed": "2026-11-26T18:54:03Z",
       "observation_count": 4003,
-      "presence_cycles": 24463,
+      "presence_cycles": 24534,
       "reactivation_count": 12,
       "seen_dates": [
         "2026-08-29",
@@ -367,7 +367,7 @@
       "last_external_at": "2026-11-26T18:27:59Z",
       "last_observed": "2026-11-26T18:28:23Z",
       "observation_count": 390,
-      "presence_cycles": 16189,
+      "presence_cycles": 16260,
       "reactivation_count": 17,
       "seen_dates": [
         "2026-08-29",
@@ -431,7 +431,7 @@
       "last_external_at": "2026-11-26T14:12:52Z",
       "last_observed": "2026-11-26T14:17:48Z",
       "observation_count": 980,
-      "presence_cycles": 24468,
+      "presence_cycles": 24539,
       "reactivation_count": 8,
       "seen_dates": [
         "2026-08-29",
@@ -528,7 +528,7 @@
       "active_cycles": 285,
       "candidate_id": "e67940e5005bc3d1aeaee4183f3a3c8bee73d85a5f97bc82b58fe0c20b77972f",
       "current_presence": false,
-      "current_routing_status": "expired",
+      "current_routing_status": "absent",
       "first_observed": "2026-08-29T15:36:43Z",
       "hostname": "images-ext-1.discordapp.net",
       "id_version": 1,
@@ -621,7 +621,7 @@
       "active_cycles": 390,
       "candidate_id": "f291dc31701590c8978975195c0a2bb023a23a20901aad627660376aa6c73ddb",
       "current_presence": false,
-      "current_routing_status": "expired",
+      "current_routing_status": "absent",
       "first_observed": "2026-08-29T15:29:51Z",
       "hostname": "media.discordapp.net",
       "id_version": 1,
@@ -756,7 +756,7 @@
       "last_external_at": "2026-11-26T18:13:43Z",
       "last_observed": "2026-11-26T18:18:13Z",
       "observation_count": 36,
-      "presence_cycles": 5633,
+      "presence_cycles": 5704,
       "reactivation_count": 13,
       "seen_dates": [
         "2026-09-03",
@@ -791,7 +791,7 @@
       "last_external_at": "2026-11-26T14:12:58Z",
       "last_observed": "2026-11-26T16:10:24Z",
       "observation_count": 299,
-      "presence_cycles": 24211,
+      "presence_cycles": 24282,
       "reactivation_count": 12,
       "seen_dates": [
         "2026-08-29",
@@ -890,7 +890,7 @@
       "last_external_at": "2026-11-26T18:13:01Z",
       "last_observed": "2026-11-26T18:13:03Z",
       "observation_count": 1839,
-      "presence_cycles": 24441,
+      "presence_cycles": 24512,
       "reactivation_count": 14,
       "seen_dates": [
         "2026-08-29",
@@ -988,8 +988,8 @@
       "suffix": "discord.com"
     }
   ],
-  "content_hash": "0e669f58f83c17ca048d1618c87e94c6e453595d2a81b8afcad1bde6fb1bb475",
-  "generated_at": "2026-11-26T21:57:33Z",
+  "content_hash": "b051984a6adf2e0745847a14510daba7d0eb93f856b973f9b170ca5f1d7640dd",
+  "generated_at": "2026-11-27T03:59:53Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
